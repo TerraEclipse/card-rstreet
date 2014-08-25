@@ -18,7 +18,8 @@
     "city": "Your City",
     "state": "State",
     "state_full": "State",
-    "avatar": "./images/avatar.png"
+    "avatar": "./images/avatar.png",
+    "target_city": "Your City"
   },
   "variants": {
 
