@@ -19,10 +19,511 @@
     "state": "State",
     "state_full": "State",
     "avatar": "./images/avatar.png",
-    "target_city": "Your City",
-    "target_grade": "A+"
+    "variables": {
+      "target_city": "Your City",
+      "target_grade": "A+"
+    }
   },
   "variants": {
-
+    "phoenix": {
+      "variables": {
+        "target_city": "Phoenix",
+        "target_state": "AZ",
+        "tnc": "C",
+        "limo": "A-",
+        "taxi": "B+",
+        "grade": "B"
+      }
+    },
+    "tucson": {
+      "variables": {
+        "target_city": "Tucson",
+        "target_state": "AZ",
+        "tnc": "B-",
+        "limo": "B",
+        "taxi": "A-",
+        "grade": "B"
+      }
+    },
+    "mesa": {
+      "variables": {
+        "target_city": "Mesa",
+        "target_state": "AZ",
+        "tnc": "B-",
+        "limo": "B",
+        "taxi": "A-",
+        "grade": "B"
+      }
+    },
+    "los_angeles": {
+      "variables": {
+        "target_city": "Los Angeles",
+        "target_state": "CA",
+        "tnc": "A-",
+        "limo": "B+",
+        "taxi": "C+",
+        "grade": "B"
+      }
+    },
+    "san_diego": {
+      "variables": {
+        "target_city": "San Diego",
+        "target_state": "CA",
+        "tnc": "A",
+        "limo": "B+",
+        "taxi": "C+",
+        "grade": "B+"
+      }
+    },
+    "san_jose": {
+      "variables": {
+        "target_city": "San Jose",
+        "target_state": "CA",
+        "tnc": "A",
+        "limo": "B+",
+        "taxi": "C+",
+        "grade": "B+"
+      }
+    },
+    "san_francisco": {
+      "variables": {
+        "target_city": "San Francisco",
+        "target_state": "CA",
+        "tnc": "A",
+        "limo": "B+",
+        "taxi": "C",
+        "grade": "B"
+      }
+    },
+    "fresno": {
+      "variables": {
+        "target_city": "Fresno",
+        "target_state": "CA",
+        "tnc": "A",
+        "limo": "B+",
+        "taxi": "B+",
+        "grade": "A-"
+      }
+    },
+    "sacramento": {
+      "variables": {
+        "target_city": "Sacramento",
+        "target_state": "CA",
+        "tnc": "A",
+        "limo": "A-",
+        "taxi": "C+",
+        "grade": "B"
+      }
+    },
+    "long_beach": {
+      "variables": {
+        "target_city": "Long Beach",
+        "target_state": "CA",
+        "tnc": "A",
+        "limo": "A-",
+        "taxi": "C+",
+        "grade": "B+"
+      }
+    },
+    "oakland": {
+      "variables": {
+        "target_city": "Oakland",
+        "target_state": "CA",
+        "tnc": "A",
+        "limo": "A-",
+        "taxi": "C-",
+        "grade": "B"
+      }
+    },
+    "denver": {
+      "variables": {
+        "target_city": "Denver",
+        "target_state": "CO",
+        "tnc": "A+",
+        "limo": "B-",
+        "taxi": "C+",
+        "grade": "B+"
+      }
+    },
+    "colorado_springs": {
+      "variables": {
+        "target_city": "Colorado Springs",
+        "target_state": "CO",
+        "tnc": "A+",
+        "limo": "B-",
+        "taxi": "C+",
+        "grade": "B+"
+      }
+    },
+    "washington": {
+      "variables": {
+        "target_city": "Washington",
+        "target_state": "DC",
+        "tnc": "A+",
+        "limo": "A-",
+        "taxi": "A-",
+        "grade": "A"
+      }
+    },
+    "jacksonville": {
+      "variables": {
+        "target_city": "Jacksonville",
+        "target_state": "FL",
+        "tnc": "B",
+        "limo": "A-",
+        "taxi": "B+",
+        "grade": "B+"
+      }
+    },
+    "miami": {
+      "variables": {
+        "target_city": "Miami",
+        "target_state": "FL",
+        "tnc": "C-",
+        "limo": "F",
+        "taxi": "C",
+        "grade": "D+"
+      }
+    },
+    "orlando": {
+      "variables": {
+        "target_city": "Orlando",
+        "target_state": "FL",
+        "tnc": "B",
+        "limo": "D-",
+        "taxi": "B-",
+        "grade": "C+"
+      }
+    },
+    "atlanta": {
+      "variables": {
+        "target_city": "Atlanta",
+        "target_state": "GA",
+        "tnc": "B",
+        "limo": "D",
+        "taxi": "A-",
+        "grade": "C+"
+      }
+    },
+    "chicago": {
+      "variables": {
+        "target_city": "Chicago",
+        "target_state": "IL",
+        "tnc": "B+",
+        "limo": "A-",
+        "taxi": "C",
+        "grade": "B-"
+      }
+    },
+    "indianapolis": {
+      "variables": {
+        "target_city": "Indianapolis",
+        "target_state": "IN",
+        "tnc": "B",
+        "limo": "A-",
+        "taxi": "A-",
+        "grade": "B+"
+      }
+    },
+    "louisville": {
+      "variables": {
+        "target_city": "Louisville",
+        "target_state": "KY",
+        "tnc": "B",
+        "limo": "A-",
+        "taxi": "A-",
+        "grade": "B+"
+      }
+    },
+    "new Orleans": {
+      "variables": {
+        "target_city": "New Orleans",
+        "target_state": "LA",
+        "tnc": "F",
+        "limo": "D",
+        "taxi": "B-",
+        "grade": "D-"
+      }
+    },
+    "boston": {
+      "variables": {
+        "target_city": "Boston",
+        "target_state": "MA",
+        "tnc": "B",
+        "limo": "A-",
+        "taxi": "C",
+        "grade": "B-"
+      }
+    },
+    "baltimore": {
+      "variables": {
+        "target_city": "Baltimore",
+        "target_state": "MD",
+        "tnc": "B",
+        "limo": "B+",
+        "taxi": "B-",
+        "grade": "B"
+      }
+    },
+    "detroit": {
+      "variables": {
+        "target_city": "Detroit",
+        "target_state": "MI",
+        "tnc": "A+",
+        "limo": "A-",
+        "taxi": "C",
+        "grade": "B+"
+      }
+    },
+    "minneapolis": {
+      "variables": {
+        "target_city": "Minneapolis",
+        "target_state": "MN",
+        "tnc": "A+",
+        "limo": "A-",
+        "taxi": "B+",
+        "grade": "A"
+      }
+    },
+    "kansas_city": {
+      "variables": {
+        "target_city": "Kansas City",
+        "target_state": "MO",
+        "tnc": "F",
+        "limo": "A-",
+        "taxi": "B-",
+        "grade": "D"
+      }
+    },
+    "charlotte": {
+      "variables": {
+        "target_city": "Charlotte",
+        "target_state": "NC",
+        "tnc": "B",
+        "limo": "C-",
+        "taxi": "B-",
+        "grade": "B-"
+      }
+    },
+    "raleigh": {
+      "variables": {
+        "target_city": "Raleigh",
+        "target_state": "NC",
+        "tnc": "B",
+        "limo": "A-",
+        "taxi": "A-",
+        "grade": "B+"
+      }
+    },
+    "omaha": {
+      "variables": {
+        "target_city": "Omaha",
+        "target_state": "NE",
+        "tnc": "D",
+        "limo": "B+",
+        "taxi": "B+",
+        "grade": "C+"
+      }
+    },
+    "albuquerque": {
+      "variables": {
+        "target_city": "Albuquerque",
+        "target_state": "NM",
+        "tnc": "B",
+        "limo": "B-",
+        "taxi": "B-",
+        "grade": "C-"
+      }
+    },
+    "las_vegas": {
+      "variables": {
+        "target_city": "Las Vegas",
+        "target_state": "NV",
+        "tnc": "F",
+        "limo": "F",
+        "taxi": "C",
+        "grade": "D-"
+      }
+    },
+    "new_york": {
+      "variables": {
+        "target_city": "New York",
+        "target_state": "NY",
+        "tnc": "C+",
+        "limo": "A-",
+        "taxi": "C",
+        "grade": "C+"
+      }
+    },
+    "columbus": {
+      "variables": {
+        "target_city": "Columbus",
+        "target_state": "OH",
+        "tnc": "B-",
+        "limo": "B+",
+        "taxi": "C+",
+        "grade": "B-"
+      }
+    },
+    "cleveland": {
+      "variables": {
+        "target_city": "Cleveland",
+        "target_state": "OH",
+        "tnc": "B",
+        "limo": "A-",
+        "taxi": "C+",
+        "grade": "B"
+      }
+    },
+    "oklahoma_city": {
+      "variables": {
+        "target_city": "Oklahoma City",
+        "target_state": "OK",
+        "tnc": "B",
+        "limo": "A-",
+        "taxi": "B-",
+        "grade": "B"
+      }
+    },
+    "tulsa": {
+      "variables": {
+        "target_city": "Tulsa",
+        "target_state": "OK",
+        "tnc": "B",
+        "limo": "D-",
+        "taxi": "C",
+        "grade": "C"
+      }
+    },
+    "portland": {
+      "variables": {
+        "target_city": "Portland",
+        "target_state": "OR",
+        "tnc": "F",
+        "limo": "F",
+        "taxi": "C+",
+        "grade": "D-"
+      }
+    },
+    "philadelphia": {
+      "variables": {
+        "target_city": "Philadelphia",
+        "target_state": "PA",
+        "tnc": "C-",
+        "limo": "C+",
+        "taxi": "C",
+        "grade": "C"
+      }
+    },
+    "memphis": {
+      "variables": {
+        "target_city": "Memphis",
+        "target_state": "TN",
+        "tnc": "C-",
+        "limo": "A-",
+        "taxi": "B-",
+        "grade": "C+"
+      }
+    },
+    "nashville": {
+      "variables": {
+        "target_city": "Nashville",
+        "target_state": "TN",
+        "tnc": "B",
+        "limo": "B",
+        "taxi": "C-",
+        "grade": "B-"
+      }
+    },
+    "houston": {
+      "variables": {
+        "target_city": "Houston",
+        "target_state": "TX",
+        "tnc": "C-",
+        "limo": "F",
+        "taxi": "C+",
+        "grade": "C-"
+      }
+    },
+    "san_antonio": {
+      "variables": {
+        "target_city": "San Antonio",
+        "target_state": "TX",
+        "tnc": "C-",
+        "limo": "F",
+        "taxi": "B-",
+        "grade": "C-"
+      }
+    },
+    "dallas": {
+      "variables": {
+        "target_city": "Dallas",
+        "target_state": "TX",
+        "tnc": "B",
+        "limo": "B+",
+        "taxi": "C+",
+        "grade": "B-"
+      }
+    },
+    "austin": {
+      "variables": {
+        "target_city": "Austin",
+        "target_state": "TX",
+        "tnc": "F",
+        "limo": "D-",
+        "taxi": "B-",
+        "grade": "D"
+      }
+    },
+    "fort_worth": {
+      "variables": {
+        "target_city": "Fort Worth",
+        "target_state": "TX",
+        "tnc": "B",
+        "limo": "C+",
+        "taxi": "B+",
+        "grade": "B"
+      }
+    },
+    "el_paso": {
+      "variables": {
+        "target_city": "El Paso",
+        "target_state": "TX",
+        "tnc": "B",
+        "limo": "B",
+        "taxi": "C",
+        "grade": "B-"
+      }
+    },
+    "virginia_beach": {
+      "variables": {
+        "target_city": "Virginia Beach",
+        "target_state": "VA",
+        "tnc": "C-",
+        "limo": "A-",
+        "taxi": "B+",
+        "grade": "B-"
+      }
+    },
+    "seattle": {
+      "variables": {
+        "target_city": "Seattle",
+        "target_state": "WA",
+        "tnc": "A",
+        "limo": "A-",
+        "taxi": "C+",
+        "grade": "B+"
+      }
+    },
+    "milwaukee": {
+      "variables": {
+        "target_city": "Milwaukee",
+        "target_state": "WI",
+        "tnc": "C-",
+        "limo": "A-",
+        "taxi": "A-",
+        "grade": "B-"
+      }
+    }
   }
 }
