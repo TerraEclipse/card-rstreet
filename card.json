@@ -19,7 +19,8 @@
     "state": "State",
     "state_full": "State",
     "avatar": "./images/avatar.png",
-    "target_city": "Your City"
+    "target_city": "Your City",
+    "target_grade": "A+"
   },
   "variants": {
 
