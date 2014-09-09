@@ -22,505 +22,1005 @@
     "target_city": "Your City",
     "grade": "A+"
   },
-  "variants": {
+  "varients": {
     "phoenix": {
-      "variables": {
-        "target_city": "Phoenix",
-        "target_state": "AZ",
-        "tnc": "C",
-        "limo": "A-",
-        "taxi": "B+",
-        "grade": "B"
+      "name": "Phoenix",
+      "hashtag": "#Phoenix",
+      "state": "AZ",
+      "long": "33.4483771",
+      "lat": "-112.0740373",
+      "number": 6,
+      "tnc": "C",
+      "limo": "A-",
+      "taxi": "B+",
+      "grade": "B",
+      "tone": "thanks",
+      "analysis": "<p>Phoenix has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Phoenix.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Greg Stanton",
+        "last": "Stanton",
+        "twitter": "MayorStanton"
       }
     },
     "tucson": {
-      "variables": {
-        "target_city": "Tucson",
-        "target_state": "AZ",
-        "tnc": "B-",
-        "limo": "B",
-        "taxi": "A-",
-        "grade": "B"
+      "name": "Tucson",
+      "hashtag": "#Tucson",
+      "state": "AZ",
+      "long": "32.2217429",
+      "lat": "-110.926479",
+      "number": 7,
+      "tnc": "B-",
+      "limo": "B",
+      "taxi": "A-",
+      "grade": "B",
+      "tone": "thanks",
+      "analysis": "<p>Tucson has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Tucson.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Jonathan Rothschild",
+        "last": "Rothschild",
+        "twitter": "JRothschildAZ"
       }
     },
     "mesa": {
-      "variables": {
-        "target_city": "Mesa",
-        "target_state": "AZ",
-        "tnc": "B-",
-        "limo": "B",
-        "taxi": "A-",
-        "grade": "B"
+      "name": "Mesa",
+      "hashtag": "#Mesa",
+      "state": "AZ",
+      "long": "33.4151843",
+      "lat": "-111.8314724",
+      "number": 8,
+      "tnc": "B-",
+      "limo": "B",
+      "taxi": "A-",
+      "grade": "B",
+      "tone": "thanks",
+      "analysis": "<p>Mesa has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Mesa.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Scott Smith",
+        "last": "Smith",
+        "twitter": "Mayor_Smith"
       }
     },
     "los_angeles": {
-      "variables": {
-        "target_city": "Los Angeles",
-        "target_state": "CA",
-        "tnc": "A-",
-        "limo": "B+",
-        "taxi": "C+",
-        "grade": "B"
+      "name": "Los Angeles",
+      "hashtag": "#LA",
+      "state": "CA",
+      "long": "34.0522342",
+      "lat": "-118.2436849",
+      "number": 2,
+      "tnc": "A-",
+      "limo": "B+",
+      "taxi": "C+",
+      "grade": "B",
+      "tone": "thanks",
+      "analysis": "<p>Los Angeles has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Los Angeles.\n",
+      "target": {
+        "title": "Governor",
+        "name": "Jerry Brown",
+        "last": "Brown",
+        "twitter": "JerryBrownGov"
       }
     },
     "san_diego": {
-      "variables": {
-        "target_city": "San Diego",
-        "target_state": "CA",
-        "tnc": "A",
-        "limo": "B+",
-        "taxi": "C+",
-        "grade": "B+"
+      "name": "San Diego",
+      "hashtag": "#SanDiego",
+      "state": "CA",
+      "long": "32.715738",
+      "lat": "-117.1610838",
+      "number": 8,
+      "tnc": "A",
+      "limo": "B+",
+      "taxi": "C+",
+      "grade": "B+",
+      "tone": "thanks",
+      "analysis": "<p>San Diego has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in San Diego.\n",
+      "target": {
+        "title": "Governor",
+        "name": "Jerry Brown",
+        "last": "Brown",
+        "twitter": "JerryBrownGov"
       }
     },
     "san_jose": {
-      "variables": {
-        "target_city": "San Jose",
-        "target_state": "CA",
-        "tnc": "A",
-        "limo": "B+",
-        "taxi": "C+",
-        "grade": "B+"
+      "name": "San Jose",
+      "hashtag": "#SanJose",
+      "state": "CA",
+      "long": "37.3393857",
+      "lat": "-121.8949555",
+      "number": 10,
+      "tnc": "A",
+      "limo": "B+",
+      "taxi": "C+",
+      "grade": "B+",
+      "tone": "thanks",
+      "analysis": "<p>San Jose has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in San Jose.\n",
+      "target": {
+        "title": "Governor",
+        "name": "Jerry Brown",
+        "last": "Brown",
+        "twitter": "JerryBrownGov"
       }
     },
     "san_francisco": {
-      "variables": {
-        "target_city": "San Francisco",
-        "target_state": "CA",
-        "tnc": "A",
-        "limo": "B+",
-        "taxi": "C",
-        "grade": "B"
+      "name": "San Francisco",
+      "hashtag": "#SanFrancisco",
+      "state": "CA",
+      "long": "37.7749295",
+      "lat": "-122.4194155",
+      "number": 14,
+      "tnc": "A",
+      "limo": "B+",
+      "taxi": "C",
+      "grade": "B",
+      "tone": "thanks",
+      "analysis": "<p>San Francisco has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in San Francisco.\n",
+      "target": {
+        "title": "Governor",
+        "name": "Jerry Brown",
+        "last": "Brown",
+        "twitter": "JerryBrownGov"
       }
     },
     "fresno": {
-      "variables": {
-        "target_city": "Fresno",
-        "target_state": "CA",
-        "tnc": "A",
-        "limo": "B+",
-        "taxi": "B+",
-        "grade": "A-"
+      "name": "Fresno",
+      "hashtag": "#Fresno",
+      "state": "CA",
+      "long": "36.7468422",
+      "lat": "-119.7725868",
+      "number": 15,
+      "tnc": "A",
+      "limo": "B+",
+      "taxi": "B+",
+      "grade": "A-",
+      "tone": "thanks",
+      "analysis": "<p>Fresno has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Fresno.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Ashley Swearengin",
+        "last": "Swearengin",
+        "twitter": "MayorSwearengin"
       }
     },
     "sacramento": {
-      "variables": {
-        "target_city": "Sacramento",
-        "target_state": "CA",
-        "tnc": "A",
-        "limo": "A-",
-        "taxi": "C+",
-        "grade": "B"
+      "name": "Sacramento",
+      "hashtag": "#Sacramento",
+      "state": "CA",
+      "long": "38.5815719",
+      "lat": "-121.4943996",
+      "number": 16,
+      "tnc": "A",
+      "limo": "A-",
+      "taxi": "C+",
+      "grade": "B",
+      "tone": "thanks",
+      "analysis": "<p>Sacramento has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Sacramento.\n",
+      "target": {
+        "title": "Governor",
+        "name": "Jerry Brown",
+        "last": "Brown",
+        "twitter": "JerryBrownGov"
       }
     },
     "long_beach": {
-      "variables": {
-        "target_city": "Long Beach",
-        "target_state": "CA",
-        "tnc": "A",
-        "limo": "A-",
-        "taxi": "C+",
-        "grade": "B+"
+      "name": "Long Beach",
+      "hashtag": "#LongBeach",
+      "state": "CA",
+      "long": "33.7700504",
+      "lat": "-118.1937395",
+      "number": 17,
+      "tnc": "A",
+      "limo": "A-",
+      "taxi": "C+",
+      "grade": "B+",
+      "tone": "thanks",
+      "analysis": "<p>Long Beach has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Long Beach.\n",
+      "target": {
+        "title": "Governor",
+        "name": "Jerry Brown",
+        "last": "Brown",
+        "twitter": "JerryBrownGov"
       }
     },
     "oakland": {
-      "variables": {
-        "target_city": "Oakland",
-        "target_state": "CA",
-        "tnc": "A",
-        "limo": "A-",
-        "taxi": "C-",
-        "grade": "B"
+      "name": "Oakland",
+      "hashtag": "#Oakland",
+      "state": "CA",
+      "long": "37.8043637",
+      "lat": "-122.2711137",
+      "number": 18,
+      "tnc": "A",
+      "limo": "A-",
+      "taxi": "C-",
+      "grade": "B",
+      "tone": "thanks",
+      "analysis": "<p>Oakland has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Oakland.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Jean Quan",
+        "last": "Quan",
+        "twitter": "jeanquan"
       }
     },
     "denver": {
-      "variables": {
-        "target_city": "Denver",
-        "target_state": "CO",
-        "tnc": "A+",
-        "limo": "B-",
-        "taxi": "C+",
-        "grade": "B+"
+      "name": "Denver",
+      "hashtag": "#Denver",
+      "state": "CO",
+      "long": "39.737567",
+      "lat": "-104.9847179",
+      "number": 19,
+      "tnc": "A+",
+      "limo": "B-",
+      "taxi": "C+",
+      "grade": "B+",
+      "tone": "thanks",
+      "analysis": "<p>Denver has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Denver.\n",
+      "target": {
+        "title": "Governor",
+        "name": "John Hickenlooper",
+        "last": "Hickenlooper",
+        "twitter": "hickforco"
       }
     },
     "colorado_springs": {
-      "variables": {
-        "target_city": "Colorado Springs",
-        "target_state": "CO",
-        "tnc": "A+",
-        "limo": "B-",
-        "taxi": "C+",
-        "grade": "B+"
+      "name": "Colorado Springs",
+      "hashtag": "#ColoradoSprings",
+      "state": "CO",
+      "long": "38.8338816",
+      "lat": "-104.8213634",
+      "number": 20,
+      "tnc": "A+",
+      "limo": "B-",
+      "taxi": "C+",
+      "grade": "B+",
+      "tone": "thanks",
+      "analysis": "<p>Colorado Springs has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Colorado Springs.\n",
+      "target": {
+        "title": "Governor",
+        "name": "John Hickenlooper",
+        "last": "Hickenlooper",
+        "twitter": "hickforco"
       }
     },
     "washington": {
-      "variables": {
-        "target_city": "Washington",
-        "target_state": "DC",
-        "tnc": "A+",
-        "limo": "A-",
-        "taxi": "A-",
-        "grade": "A"
+      "name": "Washington",
+      "hashtag": "#Washington",
+      "state": "DC",
+      "long": "38.9071923",
+      "lat": "-77.0368707",
+      "number": 21,
+      "tnc": "A+",
+      "limo": "A-",
+      "taxi": "A-",
+      "grade": "A",
+      "tone": "thanks",
+      "analysis": "<p>Washington has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Washington.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Vincent Gray",
+        "last": "Gray",
+        "twitter": "mayorvincegray"
       }
     },
     "jacksonville": {
-      "variables": {
-        "target_city": "Jacksonville",
-        "target_state": "FL",
-        "tnc": "B",
-        "limo": "A-",
-        "taxi": "B+",
-        "grade": "B+"
+      "name": "Jacksonville",
+      "hashtag": "#Jacksonville",
+      "state": "FL",
+      "long": "30.3321838",
+      "lat": "-81.655651",
+      "number": 13,
+      "tnc": "B",
+      "limo": "A-",
+      "taxi": "B+",
+      "grade": "B+",
+      "tone": "thanks",
+      "analysis": "<p>Jacksonville has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Jacksonville.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Alvin Brown",
+        "last": "Brown",
+        "twitter": "MayorAlvinBrown"
       }
     },
     "miami": {
-      "variables": {
-        "target_city": "Miami",
-        "target_state": "FL",
-        "tnc": "C-",
-        "limo": "F",
-        "taxi": "C",
-        "grade": "D+"
+      "name": "Miami",
+      "hashtag": "#Miami",
+      "state": "FL",
+      "long": "25.7890972",
+      "lat": "-80.2040435",
+      "number": 14,
+      "tnc": "C-",
+      "limo": "F",
+      "taxi": "C",
+      "grade": "D+",
+      "tone": "hostile",
+      "analysis": "<p>Miami has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Miami.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Tomás Pedro Regalado",
+        "last": "Regalado",
+        "twitter": "Tomas_Regalado"
       }
     },
     "orlando": {
-      "variables": {
-        "target_city": "Orlando",
-        "target_state": "FL",
-        "tnc": "B",
-        "limo": "D-",
-        "taxi": "B-",
-        "grade": "C+"
+      "name": "Orlando",
+      "hashtag": "#Orlando",
+      "state": "FL",
+      "long": "28.5383355",
+      "lat": "-81.3792365",
+      "number": 50,
+      "tnc": "B",
+      "limo": "D-",
+      "taxi": "B-",
+      "grade": "C+",
+      "tone": "help",
+      "analysis": "<p>Orlando has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Orlando.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Buddy Dyer",
+        "last": "Dyer",
+        "twitter": "citybeautiful"
       }
     },
     "atlanta": {
-      "variables": {
-        "target_city": "Atlanta",
-        "target_state": "GA",
-        "tnc": "B",
-        "limo": "D",
-        "taxi": "A-",
-        "grade": "C+"
+      "name": "Atlanta",
+      "hashtag": "#Atlanta",
+      "state": "GA",
+      "long": "33.7489954",
+      "lat": "-84.3879824",
+      "number": 51,
+      "tnc": "B",
+      "limo": "D",
+      "taxi": "A-",
+      "grade": "C+",
+      "tone": "help",
+      "analysis": "<p>Atlanta has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Atlanta.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Kasim Reed",
+        "last": "Reed",
+        "twitter": "KasimReed"
       }
     },
     "chicago": {
-      "variables": {
-        "target_city": "Chicago",
-        "target_state": "IL",
-        "tnc": "B+",
-        "limo": "A-",
-        "taxi": "C",
-        "grade": "B-"
+      "name": "Chicago",
+      "hashtag": "#Chicago",
+      "state": "IL",
+      "long": "41.8781136",
+      "lat": "-87.6297982",
+      "number": 3,
+      "tnc": "B+",
+      "limo": "A-",
+      "taxi": "C",
+      "grade": "B-",
+      "tone": "help",
+      "analysis": "<p>Chicago has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Chicago.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Rahm Emanuel",
+        "last": "Emanuel",
+        "twitter": "RahmEmanuel"
       }
     },
     "indianapolis": {
-      "variables": {
-        "target_city": "Indianapolis",
-        "target_state": "IN",
-        "tnc": "B",
-        "limo": "A-",
-        "taxi": "A-",
-        "grade": "B+"
+      "name": "Indianapolis",
+      "hashtag": "#Indianapolis",
+      "state": "IN",
+      "long": "39.768403",
+      "lat": "-86.158068",
+      "number": 12,
+      "tnc": "B",
+      "limo": "A-",
+      "taxi": "A-",
+      "grade": "B+",
+      "tone": "thanks",
+      "analysis": "<p>Indianapolis has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Indianapolis.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Greg Ballard",
+        "last": "Ballard",
+        "twitter": "MayorBallard"
       }
     },
     "louisville": {
-      "variables": {
-        "target_city": "Louisville",
-        "target_state": "KY",
-        "tnc": "B",
-        "limo": "A-",
-        "taxi": "A-",
-        "grade": "B+"
+      "name": "Louisville",
+      "hashtag": "#Louisville",
+      "state": "KY",
+      "long": "38.2526647",
+      "lat": "-85.7584557",
+      "number": 13,
+      "tnc": "B",
+      "limo": "A-",
+      "taxi": "A-",
+      "grade": "B+",
+      "tone": "thanks",
+      "analysis": "<p>Louisville has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Louisville.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Greg Fischer",
+        "last": "Fischer",
+        "twitter": "louisvillemayor"
       }
     },
     "new Orleans": {
-      "variables": {
-        "target_city": "New Orleans",
-        "target_state": "LA",
-        "tnc": "F",
-        "limo": "D",
-        "taxi": "B-",
-        "grade": "D-"
+      "name": "New Orleans",
+      "hashtag": "#NOLA",
+      "state": "LA",
+      "long": "29.9510658",
+      "lat": "-90.0715323",
+      "number": 49,
+      "tnc": "F",
+      "limo": "D",
+      "taxi": "B-",
+      "grade": "D-",
+      "tone": "hostile",
+      "analysis": "<p>New Orleans has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in New Orleans.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Mitch Landrieu",
+        "last": "Landrieu",
+        "twitter": "MayorLandrieu"
       }
     },
     "boston": {
-      "variables": {
-        "target_city": "Boston",
-        "target_state": "MA",
-        "tnc": "B",
-        "limo": "A-",
-        "taxi": "C",
-        "grade": "B-"
+      "name": "Boston",
+      "hashtag": "#Boston",
+      "state": "MA",
+      "long": "42.3584308",
+      "lat": "-71.0597732",
+      "number": 50,
+      "tnc": "B",
+      "limo": "A-",
+      "taxi": "C",
+      "grade": "B-",
+      "tone": "help",
+      "analysis": "<p>Boston has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Boston.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Marty Walsh",
+        "last": "Walsh",
+        "twitter": "marty_walsh"
       }
     },
     "baltimore": {
-      "variables": {
-        "target_city": "Baltimore",
-        "target_state": "MD",
-        "tnc": "B",
-        "limo": "B+",
-        "taxi": "B-",
-        "grade": "B"
+      "name": "Baltimore",
+      "hashtag": "#Baltimore",
+      "state": "MD",
+      "long": "39.2903848",
+      "lat": "-76.6121893",
+      "number": 51,
+      "tnc": "B",
+      "limo": "B+",
+      "taxi": "B-",
+      "grade": "B",
+      "tone": "thanks",
+      "analysis": "<p>Baltimore has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Baltimore.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Stephanie Rawlings-Blake",
+        "last": "Rawlings-Blake",
+        "twitter": "MayorSRB"
       }
     },
     "detroit": {
-      "variables": {
-        "target_city": "Detroit",
-        "target_state": "MI",
-        "tnc": "A+",
-        "limo": "A-",
-        "taxi": "C",
-        "grade": "B+"
+      "name": "Detroit",
+      "hashtag": "#Detroit",
+      "state": "MI",
+      "long": "42.331427",
+      "lat": "-83.0457538",
+      "number": 18,
+      "tnc": "A+",
+      "limo": "A-",
+      "taxi": "C",
+      "grade": "B+",
+      "tone": "thanks",
+      "analysis": "<p>Detroit has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Detroit.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Mike Duggan",
+        "last": "Duggan",
+        "twitter": "MayorMikeDuggan"
       }
     },
     "minneapolis": {
-      "variables": {
-        "target_city": "Minneapolis",
-        "target_state": "MN",
-        "tnc": "A+",
-        "limo": "A-",
-        "taxi": "B+",
-        "grade": "A"
+      "name": "Minneapolis",
+      "hashtag": "#Minneapolis",
+      "state": "MN",
+      "long": "44.983334",
+      "lat": "-93.26667",
+      "number": 19,
+      "tnc": "A+",
+      "limo": "A-",
+      "taxi": "B+",
+      "grade": "A",
+      "tone": "thanks",
+      "analysis": "<p>Minneapolis has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Minneapolis.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Betsy Hodges",
+        "last": "Hodges",
+        "twitter": "MayorHodges"
       }
     },
     "kansas_city": {
-      "variables": {
-        "target_city": "Kansas City",
-        "target_state": "MO",
-        "tnc": "F",
-        "limo": "A-",
-        "taxi": "B-",
-        "grade": "D"
+      "name": "Kansas City",
+      "hashtag": "#KansasCity",
+      "state": "MO",
+      "long": "39.0997265",
+      "lat": "-94.5785667",
+      "number": 20,
+      "tnc": "F",
+      "limo": "A-",
+      "taxi": "B-",
+      "grade": "D",
+      "tone": "hostile",
+      "analysis": "<p>Kansas City has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Kansas City.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Sly James",
+        "last": "James",
+        "twitter": "MayorSlyJames"
       }
     },
     "charlotte": {
-      "variables": {
-        "target_city": "Charlotte",
-        "target_state": "NC",
-        "tnc": "B",
-        "limo": "C-",
-        "taxi": "B-",
-        "grade": "B-"
+      "name": "Charlotte",
+      "hashtag": "#Charlotte",
+      "state": "NC",
+      "long": "35.2270869",
+      "lat": "-80.8431267",
+      "number": 16,
+      "tnc": "B",
+      "limo": "C-",
+      "taxi": "B-",
+      "grade": "B-",
+      "tone": "help",
+      "analysis": "<p>Charlotte has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Charlotte.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Dan Clodfelter",
+        "last": "Clodfelter",
+        "twitter": "CLTMayor"
       }
     },
     "raleigh": {
-      "variables": {
-        "target_city": "Raleigh",
-        "target_state": "NC",
-        "tnc": "B",
-        "limo": "A-",
-        "taxi": "A-",
-        "grade": "B+"
+      "name": "Raleigh",
+      "hashtag": "#Raleigh",
+      "state": "NC",
+      "long": "35.7795897",
+      "lat": "-78.6381787",
+      "number": 17,
+      "tnc": "B",
+      "limo": "A-",
+      "taxi": "A-",
+      "grade": "B+",
+      "tone": "thanks",
+      "analysis": "<p>Raleigh has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Raleigh.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Nancy McFarlane",
+        "last": "McFarlane",
+        "twitter": "NancyMcFarlane"
       }
     },
     "omaha": {
-      "variables": {
-        "target_city": "Omaha",
-        "target_state": "NE",
-        "tnc": "D",
-        "limo": "B+",
-        "taxi": "B+",
-        "grade": "C+"
+      "name": "Omaha",
+      "hashtag": "#Omaha",
+      "state": "NE",
+      "long": "41.2523634",
+      "lat": "-95.9979883",
+      "number": 18,
+      "tnc": "D",
+      "limo": "B+",
+      "taxi": "B+",
+      "grade": "C+",
+      "tone": "help",
+      "analysis": "<p>Omaha has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Omaha.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Jean Stothert",
+        "last": "Stothert",
+        "twitter": "Jean_Stothert"
       }
     },
     "albuquerque": {
-      "variables": {
-        "target_city": "Albuquerque",
-        "target_state": "NM",
-        "tnc": "B",
-        "limo": "B-",
-        "taxi": "B-",
-        "grade": "C-"
+      "name": "Albuquerque",
+      "hashtag": "#ABQ",
+      "state": "NM",
+      "long": "35.110703",
+      "lat": "-106.609991",
+      "number": 19,
+      "tnc": "B",
+      "limo": "B-",
+      "taxi": "B-",
+      "grade": "C-",
+      "tone": "help",
+      "analysis": "<p>Albuquerque has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Albuquerque.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Richard J. Berry",
+        "last": "Berry",
+        "twitter": "MayorRJBerry"
       }
     },
     "las_vegas": {
-      "variables": {
-        "target_city": "Las Vegas",
-        "target_state": "NV",
-        "tnc": "F",
-        "limo": "F",
-        "taxi": "C",
-        "grade": "D-"
+      "name": "Las Vegas",
+      "hashtag": "#LasVegas",
+      "state": "NV",
+      "long": "36.1699412",
+      "lat": "-115.1398296",
+      "number": 20,
+      "tnc": "F",
+      "limo": "F",
+      "taxi": "C",
+      "grade": "D-",
+      "tone": "hostile",
+      "analysis": "<p>Las Vegas has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Las Vegas.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Carolyn Goodman",
+        "last": "Goodman",
+        "twitter": "mayoroflasvegas"
       }
     },
     "new_york": {
-      "variables": {
-        "target_city": "New York",
-        "target_state": "NY",
-        "tnc": "C+",
-        "limo": "A-",
-        "taxi": "C",
-        "grade": "C+"
+      "name": "New York",
+      "hashtag": "#NYC",
+      "state": "NY",
+      "long": "40.7127837",
+      "lat": "-74.0059413",
+      "number": 1,
+      "tnc": "C+",
+      "limo": "A-",
+      "taxi": "C",
+      "grade": "C+",
+      "tone": "help",
+      "analysis": "<p>New York has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in New York.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Bill De Blasio",
+        "last": "Blasio",
+        "twitter": "BilldeBlasio"
       }
     },
     "columbus": {
-      "variables": {
-        "target_city": "Columbus",
-        "target_state": "OH",
-        "tnc": "B-",
-        "limo": "B+",
-        "taxi": "C+",
-        "grade": "B-"
+      "name": "Columbus",
+      "hashtag": "#Columbus",
+      "state": "OH",
+      "long": "39.9611755",
+      "lat": "-82.9987942",
+      "number": 15,
+      "tnc": "B-",
+      "limo": "B+",
+      "taxi": "C+",
+      "grade": "B-",
+      "tone": "help",
+      "analysis": "<p>Columbus has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Columbus.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Michael B. Coleman",
+        "last": "Coleman",
+        "twitter": "MichaelBColeman"
       }
     },
     "cleveland": {
-      "variables": {
-        "target_city": "Cleveland",
-        "target_state": "OH",
-        "tnc": "B",
-        "limo": "A-",
-        "taxi": "C+",
-        "grade": "B"
+      "name": "Cleveland",
+      "hashtag": "#Cleveland",
+      "state": "OH",
+      "long": "41.49932",
+      "lat": "-81.6943605",
+      "number": 16,
+      "tnc": "B",
+      "limo": "A-",
+      "taxi": "C+",
+      "grade": "B",
+      "tone": "thanks",
+      "analysis": "<p>Cleveland has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Cleveland.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Frank G. Jackson",
+        "last": "Jackson",
+        "twitter": "CityofCleveland"
       }
     },
     "oklahoma_city": {
-      "variables": {
-        "target_city": "Oklahoma City",
-        "target_state": "OK",
-        "tnc": "B",
-        "limo": "A-",
-        "taxi": "B-",
-        "grade": "B"
+      "name": "Oklahoma City",
+      "hashtag": "#OklahomaCity",
+      "state": "OK",
+      "long": "35.4675602",
+      "lat": "-97.5164276",
+      "number": 17,
+      "tnc": "B",
+      "limo": "A-",
+      "taxi": "B-",
+      "grade": "B",
+      "tone": "thanks",
+      "analysis": "<p>Oklahoma City has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Oklahoma City.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Mick Cornett",
+        "last": "Cornett",
+        "twitter": "MickCornett"
       }
     },
     "tulsa": {
-      "variables": {
-        "target_city": "Tulsa",
-        "target_state": "OK",
-        "tnc": "B",
-        "limo": "D-",
-        "taxi": "C",
-        "grade": "C"
+      "name": "Tulsa",
+      "hashtag": "#Tulsa",
+      "state": "OK",
+      "long": "36.1539816",
+      "lat": "-95.992775",
+      "number": 18,
+      "tnc": "B",
+      "limo": "D-",
+      "taxi": "C",
+      "grade": "C",
+      "tone": "help",
+      "analysis": "<p>Tulsa has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Tulsa.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Dewey F. Bartlett, Jr.",
+        "last": "Bartlett",
+        "twitter": "MayorTulsa"
       }
     },
     "portland": {
-      "variables": {
-        "target_city": "Portland",
-        "target_state": "OR",
-        "tnc": "F",
-        "limo": "F",
-        "taxi": "C+",
-        "grade": "D-"
+      "name": "Portland",
+      "hashtag": "#Portland",
+      "state": "OR",
+      "long": "45.5234515",
+      "lat": "-122.6762071",
+      "number": 19,
+      "tnc": "F",
+      "limo": "F",
+      "taxi": "C+",
+      "grade": "D-",
+      "tone": "hostile",
+      "analysis": "<p>Portland has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Portland.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Charlie Hales",
+        "last": "Hales",
+        "twitter": "MayorPDX"
       }
     },
     "philadelphia": {
-      "variables": {
-        "target_city": "Philadelphia",
-        "target_state": "PA",
-        "tnc": "C-",
-        "limo": "C+",
-        "taxi": "C",
-        "grade": "C"
+      "name": "Philadelphia",
+      "hashtag": "#Philadelphia",
+      "state": "PA",
+      "long": "39.952335",
+      "lat": "-75.163789",
+      "number": 5,
+      "tnc": "C-",
+      "limo": "C+",
+      "taxi": "C",
+      "grade": "C",
+      "tone": "help",
+      "analysis": "<p>Philadelphia has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Philadelphia.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Michael Nutter",
+        "last": "Nutter",
+        "twitter": "Michael_Nutter"
       }
     },
     "memphis": {
-      "variables": {
-        "target_city": "Memphis",
-        "target_state": "TN",
-        "tnc": "C-",
-        "limo": "A-",
-        "taxi": "B-",
-        "grade": "C+"
+      "name": "Memphis",
+      "hashtag": "#Memphis",
+      "state": "TN",
+      "long": "35.1495343",
+      "lat": "-90.0489801",
+      "number": 6,
+      "tnc": "C-",
+      "limo": "A-",
+      "taxi": "B-",
+      "grade": "C+",
+      "tone": "help",
+      "analysis": "<p>Memphis has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Memphis.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "A C Wharton",
+        "last": "Wharton",
+        "twitter": "MayorACWharton"
       }
     },
     "nashville": {
-      "variables": {
-        "target_city": "Nashville",
-        "target_state": "TN",
-        "tnc": "B",
-        "limo": "B",
-        "taxi": "C-",
-        "grade": "B-"
+      "name": "Nashville",
+      "hashtag": "#Nashville",
+      "state": "TN",
+      "long": "36.166667",
+      "lat": "-86.783333",
+      "number": 7,
+      "tnc": "B",
+      "limo": "B",
+      "taxi": "C-",
+      "grade": "B-",
+      "tone": "help",
+      "analysis": "<p>Nashville has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Nashville.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Karl Dean",
+        "last": "Dean",
+        "twitter": "reelectkarldean"
       }
     },
     "houston": {
-      "variables": {
-        "target_city": "Houston",
-        "target_state": "TX",
-        "tnc": "C-",
-        "limo": "F",
-        "taxi": "C+",
-        "grade": "C-"
+      "name": "Houston",
+      "hashtag": "#Houston",
+      "state": "TX",
+      "long": "29.7601927",
+      "lat": "-95.3693896",
+      "number": 4,
+      "tnc": "C-",
+      "limo": "F",
+      "taxi": "C+",
+      "grade": "C-",
+      "tone": "help",
+      "analysis": "<p>Houston has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Houston.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Annise Parker",
+        "last": "Parker",
+        "twitter": "AnniseParker"
       }
     },
     "san_antonio": {
-      "variables": {
-        "target_city": "San Antonio",
-        "target_state": "TX",
-        "tnc": "C-",
-        "limo": "F",
-        "taxi": "B-",
-        "grade": "C-"
+      "name": "San Antonio",
+      "hashtag": "#SanAntonio",
+      "state": "TX",
+      "long": "29.4241219",
+      "lat": "-98.4936282",
+      "number": 7,
+      "tnc": "C-",
+      "limo": "F",
+      "taxi": "B-",
+      "grade": "C-",
+      "tone": "help",
+      "analysis": "<p>San Antonio has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in San Antonio.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Ivy R. Taylor",
+        "last": "Taylor",
+        "twitter": "IvyRTaylor"
       }
     },
     "dallas": {
-      "variables": {
-        "target_city": "Dallas",
-        "target_state": "TX",
-        "tnc": "B",
-        "limo": "B+",
-        "taxi": "C+",
-        "grade": "B-"
+      "name": "Dallas",
+      "hashtag": "#Dallas",
+      "state": "TX",
+      "long": "32.7801399",
+      "lat": "-96.8004511",
+      "number": 9,
+      "tnc": "B",
+      "limo": "B+",
+      "taxi": "C+",
+      "grade": "B-",
+      "tone": "help",
+      "analysis": "<p>Dallas has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Dallas.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Mike Rawlings",
+        "last": "Rawlings",
+        "twitter": "Mike_Rawlings"
       }
     },
     "austin": {
-      "variables": {
-        "target_city": "Austin",
-        "target_state": "TX",
-        "tnc": "F",
-        "limo": "D-",
-        "taxi": "B-",
-        "grade": "D"
+      "name": "Austin",
+      "hashtag": "#Austin",
+      "state": "TX",
+      "long": "30.267153",
+      "lat": "-97.7430608",
+      "number": 11,
+      "tnc": "F",
+      "limo": "D-",
+      "taxi": "B-",
+      "grade": "D",
+      "tone": "hostile",
+      "analysis": "<p>Austin has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Austin.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Lee Leffingwell",
+        "last": "Leffingwell",
+        "twitter": "TheLeeTeam"
       }
     },
     "fort_worth": {
-      "variables": {
-        "target_city": "Fort Worth",
-        "target_state": "TX",
-        "tnc": "B",
-        "limo": "C+",
-        "taxi": "B+",
-        "grade": "B"
+      "name": "Fort Worth",
+      "hashtag": "#FortWorth",
+      "state": "TX",
+      "long": "32.7554883",
+      "lat": "-97.3307658",
+      "number": 17,
+      "tnc": "B",
+      "limo": "C+",
+      "taxi": "B+",
+      "grade": "B",
+      "tone": "thanks",
+      "analysis": "<p>Fort Worth has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Fort Worth.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Betsy Price",
+        "last": "Price",
+        "twitter": "MayorBetsyPrice"
       }
     },
     "el_paso": {
-      "variables": {
-        "target_city": "El Paso",
-        "target_state": "TX",
-        "tnc": "B",
-        "limo": "B",
-        "taxi": "C",
-        "grade": "B-"
+      "name": "El Paso",
+      "hashtag": "#ElPaso",
+      "state": "TX",
+      "long": "31.7775757",
+      "lat": "-106.4424559",
+      "number": 19,
+      "tnc": "B",
+      "limo": "B",
+      "taxi": "C",
+      "grade": "B-",
+      "tone": "help",
+      "analysis": "<p>El Paso has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in El Paso.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Oscar Leeser",
+        "last": "Lesser",
+        "twitter": "OscarLeeser"
       }
     },
     "virginia_beach": {
-      "variables": {
-        "target_city": "Virginia Beach",
-        "target_state": "VA",
-        "tnc": "C-",
-        "limo": "A-",
-        "taxi": "B+",
-        "grade": "B-"
+      "name": "Virginia Beach",
+      "hashtag": "#VirginiaBeach",
+      "state": "VA",
+      "long": "36.8529263",
+      "lat": "-75.977985",
+      "number": 20,
+      "tnc": "C-",
+      "limo": "A-",
+      "taxi": "B+",
+      "grade": "B-",
+      "tone": "help",
+      "analysis": "<p>Virginia Beach has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Virginia Beach.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Will Sessoms",
+        "last": "Sessoms",
+        "twitter": "VABeachMayor"
       }
     },
     "seattle": {
-      "variables": {
-        "target_city": "Seattle",
-        "target_state": "WA",
-        "tnc": "A",
-        "limo": "A-",
-        "taxi": "C+",
-        "grade": "B+"
+      "name": "Seattle",
+      "hashtag": "#Seattle",
+      "state": "WA",
+      "long": "47.6062095",
+      "lat": "-122.3320708",
+      "number": 21,
+      "tnc": "A",
+      "limo": "A-",
+      "taxi": "C+",
+      "grade": "B+",
+      "tone": "thanks",
+      "analysis": "<p>Seattle has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Seattle.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Ed Murray",
+        "last": "Murray",
+        "twitter": "Mayor_Ed_Murray"
       }
     },
     "milwaukee": {
-      "variables": {
-        "target_city": "Milwaukee",
-        "target_state": "WI",
-        "tnc": "C-",
-        "limo": "A-",
-        "taxi": "A-",
-        "grade": "B-"
+      "name": "Milwaukee",
+      "hashtag": "#Milwaukee",
+      "state": "WI",
+      "long": "43.0389025",
+      "lat": "-87.9064736",
+      "number": 22,
+      "tnc": "C-",
+      "limo": "A-",
+      "taxi": "A-",
+      "grade": "B-",
+      "tone": "help",
+      "analysis": "<p>Milwaukee has a heavily entrenched taxi market in which there is regulation\nmandating minimum wait times and ...<p>\n<p>The environment is so hostile that TNCs have not been able to enter this\nmarket at all. Uber, Lyft, and Sidecar all do not operation in Milwaukee.\n",
+      "target": {
+        "title": "Mayor",
+        "name": "Tom Barrett",
+        "last": "Barrett",
+        "twitter": "MayorOfMKE"
       }
     }
   }
