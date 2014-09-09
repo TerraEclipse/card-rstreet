@@ -3,15 +3,15 @@
 <head>
   {{{styles}}}
 </head>
-<body {{{bodyClasses}}} style="background-image: url({{{tone_image}}})">
+<body class="{{tone}}" style="background-image: url({{{tone_image}}}) top left no-repeat">
   <div class="wrapper">
     <div class="legislator-image">
       <div class="image-wrapper">
-        <img src="./images/{{target.last}}.jpg" alt="{{target.last}}">
+        <img src="{{{target.image}}}" alt="{{target.last}}">
       </div>
-      <div class="image-overlay" style="background-image: url(./images/{{tone}}_gradesign.png)">
-{{!--         <img src="./images/{{grade}}}.png" alt="{{grade}}">
- --}}      </div>
+      <div class="image-overlay" style="background-image: url({{{grade_sign_image}}})">
+        {{!-- <img src="./images/{{grade}}}.png" alt="{{grade}}"> --}}
+      </div>
     </div>
     <div class="content-wrapper">
       <div class="content">

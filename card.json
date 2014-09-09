@@ -21,8 +21,17 @@
     "avatar": "./images/avatar.png",
     "target_city": "Your City",
     "grade": "A+",
+    "grade_image": "./images/gradeA+.png",
+    "grade_sign_image": "./images/help_gradesign.png",
     "tone": "help",
-    "tone_image": "./images/help.jpg"
+    "tone_image": "/images/help.jpg",
+    "target": {
+      "title": "Title",
+      "name": "Legislator Name",
+      "last": "Name",
+      "twitter": "Handle",
+      "image": "./image/help_legislator.png"
+    }
   },
   "varients": {
     "phoenix": {
