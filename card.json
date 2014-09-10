@@ -18,7 +18,7 @@
     "city": "Your City",
     "state": "State",
     "state_full": "State",
-    "avatar": "", //./images/help_avatar.png
+    "avatar": "",
     "target_city": "Your City",
     "grade": "A+",
     "tone": "help",
@@ -27,7 +27,7 @@
       "name": "Legislator Name",
       "last": "Name",
       "twitter": "Handle",
-      "image": "./images/brown.jpg" //./images/help_legislator.png
+      "image": "./images/brown.jpg"
     }
   },
   "varients": {
