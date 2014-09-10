@@ -13,7 +13,7 @@
     "./styles.less"
   ],
   "variables": {
-    "first": "Longname H. Magillicuddy",
+    "first": "Longname H.",
     "last": "Magillicuddy",
     "city": "Colorado Springs",
     "state": "CO",

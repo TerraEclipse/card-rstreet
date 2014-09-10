@@ -133,11 +133,15 @@ body.thanks {
 .help .map-pin,
 .hostile .map-pin {
   position: absolute;
+  font-family: "proxima-nova", Arial;
+  font-size: 800;
   left: 385px;
   top: 105px;
 }
 .thanks .map-pin {
   position: absolute;
+  font-family: "proxima-nova", Arial;
+  font-size: 800;
   left: 400px;
   top: 120px;
 }
@@ -146,19 +150,20 @@ body.thanks {
   font-size: 40px;
   text-transform: uppercase;
   width: 100%;
-  top: 160px;
+  top: 154px;
 }
 .user-info-wrapper {
   position: absolute;
   width: 100%;
   height: 100px;
-  top: 250px;
+  top: 252px;
 }
 .user-info {
-  margin: auto;
+  margin-left: 36px;
 }
 .hostile .avatar {
   background: url(./images/hostile_avatar.png) top left no-repeat;
+  background-color: rgb( 220, 44, 1 );
   position: relative;
   border: 3px solid rgb( 255, 255, 255 );
   border-radius: 5px;
@@ -166,25 +171,36 @@ body.thanks {
   -ms-transform: rotate(5.5deg);
   -webkit-transform: rotate(5.5deg);
   transform: rotate(-5.5deg);
+  height: 75px;
+  width:75px;
 }
 .help .avatar {
   background: url(./images/help_avatar.png) top left no-repeat;
+  background-color: rgb( 255, 197, 0 );
   position: relative;
   border: 3px solid rgb( 0, 0, 0 );
   border-radius: 5px;
   box-shadow: 0px 4px 5px 0px rgb( 0, 0, 0 );
+  height: 75px;
+  width:75px;
 }
 .thanks .avatar {
   background: url(./images/thanks_avatar.png) top left no-repeat;
+  background-color: rgb( 19, 100, 49 );
   position: relative;
   border: 3px solid rgb( 255, 255, 255 );
   border-radius: 5px;
   box-shadow: 0px 4px 5px 0px rgb( 255, 255, 255 );
+  height: 75px;
+  width:75px;
 }
 .signature {
   position: absolute;
   width: 100%;
   text-align: left;
+  color: white;
+  margin-left: 100px;
+  margin-top: 23px;
 }
 .signature-name {
   font-family: "proxima-nova", Arial;
@@ -200,6 +216,10 @@ body.thanks {
 }
 .hostile .sitelink-text {
   position: absolute;
+  font-family: "proxima-nova", Arial;
+  color: white;
+  font-style: normal;
+  font-weight: 400;
   font-size: 14px;
   font-weight: 400;
   text-transform: uppercase;
@@ -211,6 +231,10 @@ body.thanks {
 .help .sitelink-text,
 .thanks .sitelink-text {
   position: absolute;
+  font-family: "proxima-nova", Arial;
+  color: white;
+  font-style: normal;
+  font-weight: 400;
   font-size: 14px;
   font-weight: 400;
   text-transform: uppercase;
