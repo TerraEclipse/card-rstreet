@@ -16,19 +16,9 @@
     "first": "Your",
     "last": "Name",
     "city": "City",
-    "state": "ST",
+    "state": "State",
     "state_full": "State",
-    "avatar": "",
-    "target_city": "City",
-    "grade": "A+",
-    "tone": "help",
-    "target": {
-      "title": "Title",
-      "name": "Full Name",
-      "last": "Last",
-      "twitter": "Handle",
-      "image": ""
-    }
+    "avatar": ""
   },
   "varients": {
     "phoenix": {
