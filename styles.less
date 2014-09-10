@@ -34,6 +34,7 @@ body.thanks {
   height: 100%;
 }
 .hostile .legislator-image .image-wrapper {
+  position: absolute;
   background: url(./images/hostile_legislator.png) top left no-repeat;
   background-color: rgb( 220, 44, 1 );
   border: 3px solid rgb( 255, 255, 255 );
@@ -44,6 +45,7 @@ body.thanks {
   transform: rotate(5deg);
 }
 .help .legislator-image .image-wrapper {
+  position: absolute;
   background: url(./images/help_legislator.png) top left no-repeat;
   background-color: rgb( 255, 197, 0 );
   border: 3px solid rgb( 0, 0, 0 ) ;
@@ -55,6 +57,7 @@ body.thanks {
   height: 294px;
 }
 .thanks .legislator-image .image-wrapper {
+  position: absolute;
   background: url(./images/thanks_legislator.png) top left no-repeat;
   background-color: rgb( 19, 100, 49 );
   border: 3px solid rgb( 255, 255, 255 ) ;
@@ -70,6 +73,8 @@ body.thanks {
   position: absolute;
   bottom: 0;
   right: 0;
+  width: 199;
+  height: 192;
   z-index: 10;
 }
 .help .legislator-image .image-overlay {
@@ -92,41 +97,45 @@ body.thanks {
 .help .content-wrapper,
 .thanks .content-wrapper {
   position: absolute;
-  width: 535px;
+  width: 500px;
   height: 100%;
   right: 0;
 }
 .hostile .content-wrapper {
   position: absolute;
-  width: 535px;
+  width: 500px;
   height: 100%;
   left: 0;
 }
 
 .content {
   position: relative;
-  margin: 40px 15px 0px 15px;
+  margin: 0 30px;
+  height: 350px;
+  width: 430px;
 }
 .dear {
   position: absolute;
-  width: 100%;
   font-size: 1em;
+  width: 100%;
+  top: 50px;
 }
 .help .map-pin,
 .hostile .map-pin {
   position: absolute;
-  left: 714.778px;
-  top: 104.229px;
+  left: 375px;
+  top: 105px;
 }
 .thanks .map-pin {
   position: absolute;
-  left: 513.304px;
-  top: 256.931px;
+  left: 400px;
+  top: 120px;
 }
 .city-state {
   position: absolute;
-  width: 100%;
   font-size: 1em;
+  width: 100%;
+  top: 160px;
 }
 .user-info-wrapper {
   position: absolute;
@@ -166,10 +175,12 @@ body.thanks {
   font-size: 1em;
   left: 442.072px;
   top: 291.462px;
-  z-index: 11;
 }
 .sitelink-text {
-  font-size: 0.7em;
+  position: absolute;
+  font-size: 1em;
+  bottom: 0;
+  margin: 0 30px 15px 30px;
 }
 
 
