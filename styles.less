@@ -2,7 +2,7 @@ body {
   width: 800px;
   height: 400px;
   /*get fonts*/
-  font-family: 'ProximaNova', 'futura-pt', 'Helvetica Neue', 'Helvetica', 'Arial';
+  font-family: "alternate-gothic-no-1-d", sans-serif;
 }
 body.hostile {
   background: url(./images/hostile.jpg) top left no-repeat;
@@ -185,10 +185,30 @@ body.thanks {
   text-align: left;
   font-size: 1em;
 }
-.sitelink-text {
+.signature-name {
+  font-family: "proxima-nova", Arial;
+  font-style: normal;
+  font-weight: 400;
+}
+.signature-city-state {
+  font-family: "proxima-nova", Arial;
+  font-style: normal;
+  font-weight: 800;
+}
+.hostile .sitelink-text {
+  position: absolute;
+  font-size: 1em;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  margin: 0 30px 15px 30px;
+}
+.help .sitelink-text,
+.thanks .sitelink-text {
   position: absolute;
   font-size: 1em;
   bottom: 0;
+  right: 0;
   margin: 0 30px 15px 30px;
 }
 
@@ -198,13 +218,7 @@ body.thanks {
 
 
 
-
-
-
-
-
-
-
+*.signblox.dev,cards.terraeclipse.com,*.terraeclipse.com
 
 
 

@@ -2,14 +2,14 @@
 <html>
 <head>
   {{{styles}}}
-  <script type="text/javascript" src="//use.typekit.net/ivj5ren.js"></script>
+  <script type="text/javascript" src="//use.typekit.net/awu4mpx.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
 <body class="{{tone}}">
   <div class="wrapper">
     <div class="legislator-image">
       <div class="image-wrapper">
-        {{#if target.image}}
+        {{#if variants}}
           <img src="{{base_url}}{{target.image}}" alt="{{target.last}}">
         {{/if}}
       </div>
@@ -45,8 +45,9 @@
               </div>
             </div>
             <div class="signature">
-              {{{first}}} {{{last}}}
+              <div class="signature-name">{{{first}}} {{{last}}}</div>
               <br>
+              <div class="signature-city-state">
               {{{city}}}
               {{#if state}}
                 {{#if city}}
@@ -58,11 +59,12 @@
               {{else}}
                 {{state_full}}
               {{/if}}
+              </div>
             </div>
           </div>
         </div>
       </div>
-      <div class="sitelink-text">Find your City's grade at www.ridescore.com</div>
+      <div class="sitelink-text regular">Find your City's grade at www.ridescore.com</div>
     </div>
   </div>
   {{{scripts}}}
