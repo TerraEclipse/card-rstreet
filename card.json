@@ -18,7 +18,7 @@
     "city": "Your City",
     "state": "State",
     "state_full": "State",
-    "avatar": "./images/avatar.png",
+    "avatar": "", //./images/help_avatar.png
     "target_city": "Your City",
     "grade": "A+",
     "tone": "help",
@@ -27,7 +27,7 @@
       "name": "Legislator Name",
       "last": "Name",
       "twitter": "Handle",
-      "image": ""
+      "image": "" //./images/help_legislator.png
     }
   },
   "varients": {
@@ -48,7 +48,8 @@
         "title": "Mayor",
         "name": "Greg Stanton",
         "last": "Stanton",
-        "twitter": "MayorStanton"
+        "twitter": "MayorStanton",
+        "image": "./images/Stanton.jpg"
       }
     },
     "tucson": {
@@ -68,7 +69,8 @@
         "title": "Mayor",
         "name": "Jonathan Rothschild",
         "last": "Rothschild",
-        "twitter": "JRothschildAZ"
+        "twitter": "JRothschildAZ",
+        "image": "./images/Rothschild.jpg"
       }
     },
     "mesa": {
@@ -88,7 +90,8 @@
         "title": "Mayor",
         "name": "Scott Smith",
         "last": "Smith",
-        "twitter": "Mayor_Smith"
+        "twitter": "Mayor_Smith",
+        "image": "./images/Smith.jpg"
       }
     },
     "los_angeles": {
@@ -108,7 +111,8 @@
         "title": "Governor",
         "name": "Jerry Brown",
         "last": "Brown",
-        "twitter": "JerryBrownGov"
+        "twitter": "JerryBrownGov",
+        "image": "./images/Brown.jpg"
       }
     },
     "san_diego": {
@@ -128,7 +132,8 @@
         "title": "Governor",
         "name": "Jerry Brown",
         "last": "Brown",
-        "twitter": "JerryBrownGov"
+        "twitter": "JerryBrownGov",
+        "image": "./images/Brown.jpg"
       }
     },
     "san_jose": {
@@ -148,7 +153,8 @@
         "title": "Governor",
         "name": "Jerry Brown",
         "last": "Brown",
-        "twitter": "JerryBrownGov"
+        "twitter": "JerryBrownGov",
+        "image": "./images/Brown.jpg"
       }
     },
     "san_francisco": {
@@ -168,7 +174,8 @@
         "title": "Governor",
         "name": "Jerry Brown",
         "last": "Brown",
-        "twitter": "JerryBrownGov"
+        "twitter": "JerryBrownGov",
+        "image": "./images/Brown.jpg"
       }
     },
     "fresno": {
@@ -188,7 +195,8 @@
         "title": "Mayor",
         "name": "Ashley Swearengin",
         "last": "Swearengin",
-        "twitter": "MayorSwearengin"
+        "twitter": "MayorSwearengin",
+        "image": "./images/Swearengin.jpg"
       }
     },
     "sacramento": {
@@ -208,7 +216,8 @@
         "title": "Governor",
         "name": "Jerry Brown",
         "last": "Brown",
-        "twitter": "JerryBrownGov"
+        "twitter": "JerryBrownGov",
+        "image": "./images/Brown.jpg"
       }
     },
     "long_beach": {
@@ -228,7 +237,8 @@
         "title": "Governor",
         "name": "Jerry Brown",
         "last": "Brown",
-        "twitter": "JerryBrownGov"
+        "twitter": "JerryBrownGov",
+        "image": "./images/Brown.jpg"
       }
     },
     "oakland": {
@@ -248,7 +258,8 @@
         "title": "Mayor",
         "name": "Jean Quan",
         "last": "Quan",
-        "twitter": "jeanquan"
+        "twitter": "jeanquan",
+        "image": "./images/Quan.jpg"
       }
     },
     "denver": {
@@ -268,7 +279,8 @@
         "title": "Governor",
         "name": "John Hickenlooper",
         "last": "Hickenlooper",
-        "twitter": "hickforco"
+        "twitter": "hickforco",
+        "image": "./images/Hickenlooper.jpg"
       }
     },
     "colorado_springs": {
@@ -288,7 +300,8 @@
         "title": "Governor",
         "name": "John Hickenlooper",
         "last": "Hickenlooper",
-        "twitter": "hickforco"
+        "twitter": "hickforco",
+        "image": "./images/Hickenlooper.jpg"
       }
     },
     "washington": {
@@ -308,7 +321,8 @@
         "title": "Mayor",
         "name": "Vincent Gray",
         "last": "Gray",
-        "twitter": "mayorvincegray"
+        "twitter": "mayorvincegray",
+        "image": "./images/Gray.jpg"
       }
     },
     "jacksonville": {
@@ -328,7 +342,8 @@
         "title": "Mayor",
         "name": "Alvin Brown",
         "last": "Brown",
-        "twitter": "MayorAlvinBrown"
+        "twitter": "MayorAlvinBrown",
+        "image": "./images/A_Brown.jpg"
       }
     },
     "miami": {
@@ -348,7 +363,8 @@
         "title": "Mayor",
         "name": "Tomás Pedro Regalado",
         "last": "Regalado",
-        "twitter": "Tomas_Regalado"
+        "twitter": "Tomas_Regalado",
+        "image": "./images/Regalado.jpg"
       }
     },
     "orlando": {
@@ -368,7 +384,8 @@
         "title": "Mayor",
         "name": "Buddy Dyer",
         "last": "Dyer",
-        "twitter": "citybeautiful"
+        "twitter": "citybeautiful",
+        "image": "./images/Dyer.jpg"
       }
     },
     "atlanta": {
@@ -388,7 +405,8 @@
         "title": "Mayor",
         "name": "Kasim Reed",
         "last": "Reed",
-        "twitter": "KasimReed"
+        "twitter": "KasimReed",
+        "image": "./images/Reed.jpg"
       }
     },
     "chicago": {
@@ -408,7 +426,8 @@
         "title": "Mayor",
         "name": "Rahm Emanuel",
         "last": "Emanuel",
-        "twitter": "RahmEmanuel"
+        "twitter": "RahmEmanuel",
+        "image": "./images/Emanuel.jpg"
       }
     },
     "indianapolis": {
@@ -428,7 +447,8 @@
         "title": "Mayor",
         "name": "Greg Ballard",
         "last": "Ballard",
-        "twitter": "MayorBallard"
+        "twitter": "MayorBallard",
+        "image": "./images/Ballard.jpg"
       }
     },
     "louisville": {
@@ -448,7 +468,8 @@
         "title": "Mayor",
         "name": "Greg Fischer",
         "last": "Fischer",
-        "twitter": "louisvillemayor"
+        "twitter": "louisvillemayor",
+        "image": "./images/Fischer.jpg"
       }
     },
     "new Orleans": {
@@ -468,7 +489,8 @@
         "title": "Mayor",
         "name": "Mitch Landrieu",
         "last": "Landrieu",
-        "twitter": "MayorLandrieu"
+        "twitter": "MayorLandrieu",
+        "image": "./images/Landrieu.jpg"
       }
     },
     "boston": {
@@ -488,7 +510,8 @@
         "title": "Mayor",
         "name": "Marty Walsh",
         "last": "Walsh",
-        "twitter": "marty_walsh"
+        "twitter": "marty_walsh",
+        "image": "./images/Walsh.jpg"
       }
     },
     "baltimore": {
@@ -508,7 +531,8 @@
         "title": "Mayor",
         "name": "Stephanie Rawlings-Blake",
         "last": "Rawlings-Blake",
-        "twitter": "MayorSRB"
+        "twitter": "MayorSRB",
+        "image": "./images/Rawlings-Blake.jpg"
       }
     },
     "detroit": {
@@ -528,7 +552,8 @@
         "title": "Mayor",
         "name": "Mike Duggan",
         "last": "Duggan",
-        "twitter": "MayorMikeDuggan"
+        "twitter": "MayorMikeDuggan",
+        "image": "./images/Duggan.jpg"
       }
     },
     "minneapolis": {
@@ -548,7 +573,8 @@
         "title": "Mayor",
         "name": "Betsy Hodges",
         "last": "Hodges",
-        "twitter": "MayorHodges"
+        "twitter": "MayorHodges",
+        "image": "./images/Hodges.jpg"
       }
     },
     "kansas_city": {
@@ -568,7 +594,8 @@
         "title": "Mayor",
         "name": "Sly James",
         "last": "James",
-        "twitter": "MayorSlyJames"
+        "twitter": "MayorSlyJames",
+        "image": "./images/James.jpg"
       }
     },
     "charlotte": {
@@ -588,7 +615,8 @@
         "title": "Mayor",
         "name": "Dan Clodfelter",
         "last": "Clodfelter",
-        "twitter": "CLTMayor"
+        "twitter": "CLTMayor",
+        "image": "./images/Clodfelter.jpg"
       }
     },
     "raleigh": {
@@ -608,7 +636,8 @@
         "title": "Mayor",
         "name": "Nancy McFarlane",
         "last": "McFarlane",
-        "twitter": "NancyMcFarlane"
+        "twitter": "NancyMcFarlane",
+        "image": "./images/McFarlane.jpg"
       }
     },
     "omaha": {
@@ -628,7 +657,8 @@
         "title": "Mayor",
         "name": "Jean Stothert",
         "last": "Stothert",
-        "twitter": "Jean_Stothert"
+        "twitter": "Jean_Stothert",
+        "image": "./images/Stothert.jpg"
       }
     },
     "albuquerque": {
@@ -648,7 +678,8 @@
         "title": "Mayor",
         "name": "Richard J. Berry",
         "last": "Berry",
-        "twitter": "MayorRJBerry"
+        "twitter": "MayorRJBerry",
+        "image": "./images/Berry.jpg"
       }
     },
     "las_vegas": {
@@ -668,7 +699,8 @@
         "title": "Mayor",
         "name": "Carolyn Goodman",
         "last": "Goodman",
-        "twitter": "mayoroflasvegas"
+        "twitter": "mayoroflasvegas",
+        "image": "./images/Goodman.jpg"
       }
     },
     "new_york": {
@@ -688,7 +720,8 @@
         "title": "Mayor",
         "name": "Bill De Blasio",
         "last": "Blasio",
-        "twitter": "BilldeBlasio"
+        "twitter": "BilldeBlasio",
+        "image": "./images/Blasio.jpg"
       }
     },
     "columbus": {
@@ -708,7 +741,8 @@
         "title": "Mayor",
         "name": "Michael B. Coleman",
         "last": "Coleman",
-        "twitter": "MichaelBColeman"
+        "twitter": "MichaelBColeman",
+        "image": "./images/Coleman.jpg"
       }
     },
     "cleveland": {
@@ -728,7 +762,8 @@
         "title": "Mayor",
         "name": "Frank G. Jackson",
         "last": "Jackson",
-        "twitter": "CityofCleveland"
+        "twitter": "CityofCleveland",
+        "image": "./images/Jackson.jpg"
       }
     },
     "oklahoma_city": {
@@ -748,7 +783,8 @@
         "title": "Mayor",
         "name": "Mick Cornett",
         "last": "Cornett",
-        "twitter": "MickCornett"
+        "twitter": "MickCornett",
+        "image": "./images/Cornett.jpg"
       }
     },
     "tulsa": {
@@ -768,7 +804,8 @@
         "title": "Mayor",
         "name": "Dewey F. Bartlett, Jr.",
         "last": "Bartlett",
-        "twitter": "MayorTulsa"
+        "twitter": "MayorTulsa",
+        "image": "./images/Bartlett.jpg"
       }
     },
     "portland": {
@@ -788,7 +825,8 @@
         "title": "Mayor",
         "name": "Charlie Hales",
         "last": "Hales",
-        "twitter": "MayorPDX"
+        "twitter": "MayorPDX",
+        "image": "./images/Hales.jpg"
       }
     },
     "philadelphia": {
@@ -808,7 +846,8 @@
         "title": "Mayor",
         "name": "Michael Nutter",
         "last": "Nutter",
-        "twitter": "Michael_Nutter"
+        "twitter": "Michael_Nutter",
+        "image": "./images/Nutter.jpg"
       }
     },
     "memphis": {
@@ -828,7 +867,8 @@
         "title": "Mayor",
         "name": "A C Wharton",
         "last": "Wharton",
-        "twitter": "MayorACWharton"
+        "twitter": "MayorACWharton",
+        "image": "./images/Wharton.jpg"
       }
     },
     "nashville": {
@@ -848,7 +888,8 @@
         "title": "Mayor",
         "name": "Karl Dean",
         "last": "Dean",
-        "twitter": "reelectkarldean"
+        "twitter": "reelectkarldean",
+        "image": "./images/Dean.jpg"
       }
     },
     "houston": {
@@ -868,7 +909,8 @@
         "title": "Mayor",
         "name": "Annise Parker",
         "last": "Parker",
-        "twitter": "AnniseParker"
+        "twitter": "AnniseParker",
+        "image": "./images/Parker.jpg"
       }
     },
     "san_antonio": {
@@ -888,7 +930,8 @@
         "title": "Mayor",
         "name": "Ivy R. Taylor",
         "last": "Taylor",
-        "twitter": "IvyRTaylor"
+        "twitter": "IvyRTaylor",
+        "image": "./images/Taylor.jpg"
       }
     },
     "dallas": {
@@ -908,7 +951,8 @@
         "title": "Mayor",
         "name": "Mike Rawlings",
         "last": "Rawlings",
-        "twitter": "Mike_Rawlings"
+        "twitter": "Mike_Rawlings",
+        "image": "./images/Rawlings.jpg"
       }
     },
     "austin": {
@@ -928,7 +972,8 @@
         "title": "Mayor",
         "name": "Lee Leffingwell",
         "last": "Leffingwell",
-        "twitter": "TheLeeTeam"
+        "twitter": "TheLeeTeam",
+        "image": "./images/Leffingwell.jpg"
       }
     },
     "fort_worth": {
@@ -948,7 +993,8 @@
         "title": "Mayor",
         "name": "Betsy Price",
         "last": "Price",
-        "twitter": "MayorBetsyPrice"
+        "twitter": "MayorBetsyPrice",
+        "image": "./images/Price.jpg"
       }
     },
     "el_paso": {
@@ -968,7 +1014,8 @@
         "title": "Mayor",
         "name": "Oscar Leeser",
         "last": "Lesser",
-        "twitter": "OscarLeeser"
+        "twitter": "OscarLeeser",
+        "image": "./images/Lesser.jpg"
       }
     },
     "virginia_beach": {
@@ -988,7 +1035,8 @@
         "title": "Mayor",
         "name": "Will Sessoms",
         "last": "Sessoms",
-        "twitter": "VABeachMayor"
+        "twitter": "VABeachMayor",
+        "image": "./images/Sessoms.jpg"
       }
     },
     "seattle": {
@@ -1008,7 +1056,8 @@
         "title": "Mayor",
         "name": "Ed Murray",
         "last": "Murray",
-        "twitter": "Mayor_Ed_Murray"
+        "twitter": "Mayor_Ed_Murray",
+        "image": "./images/Murray.jpg"
       }
     },
     "milwaukee": {
@@ -1028,7 +1077,8 @@
         "title": "Mayor",
         "name": "Tom Barrett",
         "last": "Barrett",
-        "twitter": "MayorOfMKE"
+        "twitter": "MayorOfMKE",
+        "image": "./images/Barrett.jpg"
       }
     }
   }

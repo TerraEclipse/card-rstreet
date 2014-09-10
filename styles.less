@@ -71,28 +71,31 @@ body.thanks {
   position: absolute;
   bottom: 0;
   right: 0;
+  z-index: 52;
 }
 .help .legislator-image .image-overlay {
   background: url(./images/help_gradesign.png) top left no-repeat;
   position: absolute;
   bottom: 0;
   left: 0;
+  z-index: 52;
 }
 .thanks .legislator-image .image-overlay {
   background: url(./images/thanks_gradesign.png) top left no-repeat;
   position: absolute;
   bottom: 0;
   left: 0;
+  z-index: 52;
 }
 .help .content-wrapper,
 .thanks .content-wrapper {
   position: absolute;
-  width: 535px
+  width: 535px;
   left: 0;
 }
 .hostile .content-wrapper {
   position: absolute;
-  width: 535px
+  width: 535px;
   right: 0;
 }
 
@@ -126,6 +129,7 @@ body.thanks {
   width: 100%;
 }
 .hostile .avatar-wrapper {
+  background: url(./images/hostile_avatar.png) top left no-repeat;
   position: relative;
   border: 3px solid rgb( 255, 255, 255 );
   border-radius: 5px;
@@ -135,20 +139,24 @@ body.thanks {
   transform: rotate(-5.5deg);
 }
 .help .avatar-wrapper {
+  background: url(./images/help_avatar.png) top left no-repeat;
   position: relative;
   border: 3px solid rgb( 0, 0, 0 );
   border-radius: 5px;
   box-shadow: 0px 4px 5px 0px rgb( 0, 0, 0 );
 }
 .thanks .avatar-wrapper {
+  background: url(./images/thanks_avatar.png) top left no-repeat;
   position: relative;
   border: 3px solid rgb( 255, 255, 255 );
   border-radius: 5px;
   box-shadow: 0px 4px 5px 0px rgb( 255, 255, 255 );
 }
 .signature {
+  position: absolute;
+  width: 100%;
   text-align: left;
-  font-size: 0.7em;
+  font-size: 1em;
   left: 442.072px;
   top: 291.462px;
   z-index: 11;
@@ -172,22 +180,8 @@ body.thanks {
 
 
 
-.Background {
-  border-style: solid;
-  border-width: 3px;
-  border-color: rgb( 0, 0, 0 );
-  border-radius: 5px;
-  background-image: -moz-linear-gradient( 0deg, rgb(0,0,0) 0%, rgb(255,255,255) 50%, rgb(0,0,0) 100%);
-  background-image: -webkit-linear-gradient( 0deg, rgb(0,0,0) 0%, rgb(255,255,255) 50%, rgb(0,0,0) 100%);
-  background-image: -ms-linear-gradient( 0deg, rgb(0,0,0) 0%, rgb(255,255,255) 50%, rgb(0,0,0) 100%);
-  box-shadow: 0px 4px 5px 0px rgb( 0, 0, 0 );
-  position: absolute;
-  left: 30px;
-  top: 30px;
-  width: 264px;
-  height: 294px;
-  z-index: 47;
-}
+
+
 
 
 
