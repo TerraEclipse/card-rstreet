@@ -27,7 +27,7 @@
       "name": "Legislator Name",
       "last": "Name",
       "twitter": "Handle",
-      "image": "" //./images/help_legislator.png
+      "image": "./images/brown.jpg" //./images/help_legislator.png
     }
   },
   "varients": {
