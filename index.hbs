@@ -2,12 +2,16 @@
 <html>
 <head>
   {{{styles}}}
+  <script type="text/javascript" src="//use.typekit.net/ivj5ren.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
 <body class="{{tone}}">
   <div class="wrapper">
     <div class="legislator-image">
       <div class="image-wrapper">
-        <img src="{{base_url}}{{target.image}}" alt="{{target.last}}">
+        {{#if variants}}
+          <img src="{{base_url}}{{target.image}}" alt="{{target.last}}">
+        {{/if}}
       </div>
       <div class="image-overlay">
         <img class="grade" src="./images/help_avatar.png" alt="test">
@@ -34,11 +38,11 @@
         <div class="user-info-wrapper">
           <div class="user-info">
             <div class="avatar">
+              <div class="avatar-wrapper">
                 {{#if avatar}}
-                  <div class="avatar-wrapper">
-                    <span class="avatar" style="background-image: url({{{avatar}}})"></span>
-                  </div>
+                  <span class="avatar" style="background-image: url({{{avatar}}})"></span>
                 {{/if}}
+              </div>
             </div>
             <div class="signature">
               {{{first}}} {{{last}}}
