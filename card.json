@@ -13,19 +13,19 @@
     "./styles.less"
   ],
   "variables": {
-    "first": "Your",
-    "last": "Name",
-    "city": "Your City",
-    "state": "State",
-    "state_full": "State",
+    "first": "Longname H. Magillicuddy",
+    "last": "Magillicuddy",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "state_full": "Colorado",
     "avatar": "",
-    "target_city": "Your City",
+    "target_city": "Colorado Springs",
     "grade": "A+",
     "tone": "help",
     "target": {
-      "title": "Title",
-      "name": "Legislator Name",
-      "last": "Name",
+      "title": "Mayor",
+      "name": "Stephanie Rawlings-Blake",
+      "last": "Rawlings-Blake",
       "twitter": "Handle",
       "image": "/images/brown.jpg"
     }
