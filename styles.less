@@ -22,14 +22,16 @@ body.thanks {
 }
 .hostile .legislator-image {
   position: absolute;
-  top: 10px;
-  right: 10px;
+  right: 0;
+  width: 320px;
+  height: 100%;
 }
 .help .legislator-image,
 .thank-you .legislator-image {
   position: absolute;
-  top: 30px;
-  left: 30px;
+  left: 0;
+  width: 320px;
+  height: 100%;
 }
 .hostile .legislator-image .image-wrapper {
   background: url(./images/hostile_legislator.png) top left no-repeat;
@@ -40,7 +42,6 @@ body.thanks {
   -ms-transform: rotate(-5deg);
   -webkit-transform: rotate(-5deg);
   transform: rotate(5deg);
-  z-index: 47;
 }
 .help .legislator-image .image-wrapper {
   background: url(./images/help_legislator.png) top left no-repeat;
@@ -52,7 +53,6 @@ body.thanks {
   top: 30px;
   width: 264px;
   height: 294px;
-  z-index: 47;
 }
 .thanks .legislator-image .image-wrapper {
   background: url(./images/thanks_legislator.png) top left no-repeat;
@@ -64,39 +64,43 @@ body.thanks {
   top: 30px;
   width: 264px;
   height: 294px;
-  z-index: 47;
 }
 .hostile .legislator-image .image-overlay {
   background: url(./images/hostile_gradesign.png) top left no-repeat;
   position: absolute;
   bottom: 0;
   right: 0;
-  z-index: 52;
+  z-index: 10;
 }
 .help .legislator-image .image-overlay {
   background: url(./images/help_gradesign.png) top left no-repeat;
   position: absolute;
   bottom: 0;
   left: 0;
-  z-index: 52;
+  z-index: 10;
 }
 .thanks .legislator-image .image-overlay {
   background: url(./images/thanks_gradesign.png) top left no-repeat;
   position: absolute;
   bottom: 0;
   left: 0;
-  z-index: 52;
+  z-index: 10;
+}
+.image-overlay img {
+  margin: auto;
 }
 .help .content-wrapper,
 .thanks .content-wrapper {
   position: absolute;
   width: 535px;
-  left: 0;
+  height: 100%;
+  right: 0;
 }
 .hostile .content-wrapper {
   position: absolute;
   width: 535px;
-  right: 0;
+  height: 100%;
+  left: 0;
 }
 
 .content {
@@ -111,8 +115,8 @@ body.thanks {
 .help .map-pin,
 .hostile .map-pin {
   position: absolute;
-  left: 712.778px;
-  top: 146.229px;
+  left: 714.778px;
+  top: 104.229px;
 }
 .thanks .map-pin {
   position: absolute;
