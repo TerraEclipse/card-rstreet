@@ -22,7 +22,7 @@
   },
   "varients": {
     "phoenix": {
-        "variables": {
+      "variables": {
         "name": "Phoenix",
         "hashtag": "#Phoenix",
         "state": "AZ",
@@ -42,10 +42,10 @@
           "twitter": "MayorStanton",
           "image": "./images/stanton.jpg"
         }
-
- }   },
+      }
+    },
     "tucson": {
-        "variables": {
+      "variables": {
         "name": "Tucson",
         "hashtag": "#Tucson",
         "state": "AZ",
@@ -65,10 +65,10 @@
           "twitter": "JRothschildAZ",
           "image": "./images/rothschild.jpg"
         }
-
- }   },
+      }
+    },
     "mesa": {
-        "variables": {
+      "variables": {
         "name": "Mesa",
         "hashtag": "#Mesa",
         "state": "AZ",
@@ -88,10 +88,10 @@
           "twitter": "Mayor_Smith",
           "image": "./images/smith.jpg"
         }
-
- }   },
+      }
+    },
     "los_angeles": {
-        "variables": {
+      "variables": {
         "name": "Los Angeles",
         "hashtag": "#LA",
         "state": "CA",
@@ -111,10 +111,10 @@
           "twitter": "JerryBrownGov",
           "image": "./images/brown.jpg"
         }
-
- }   },
+      }
+    },
     "san_diego": {
-        "variables": {
+      "variables": {
         "name": "San Diego",
         "hashtag": "#SanDiego",
         "state": "CA",
@@ -134,10 +134,10 @@
           "twitter": "JerryBrownGov",
           "image": "./images/brown.jpg"
         }
-
- }   },
+      }
+    },
     "san_jose": {
-        "variables": {
+      "variables": {
         "name": "San Jose",
         "hashtag": "#SanJose",
         "state": "CA",
@@ -157,10 +157,10 @@
           "twitter": "JerryBrownGov",
           "image": "./images/brown.jpg"
         }
-
- }   },
+      }
+    },
     "san_francisco": {
-        "variables": {
+      "variables": {
         "name": "San Francisco",
         "hashtag": "#SanFrancisco",
         "state": "CA",
@@ -180,10 +180,10 @@
           "twitter": "JerryBrownGov",
           "image": "./images/brown.jpg"
         }
-
- }   },
+      }
+    },
     "fresno": {
-        "variables": {
+      "variables": {
         "name": "Fresno",
         "hashtag": "#Fresno",
         "state": "CA",
@@ -203,10 +203,10 @@
           "twitter": "MayorSwearengin",
           "image": "./images/swearengin.jpg"
         }
-
- }   },
+      }
+    },
     "sacramento": {
-        "variables": {
+      "variables": {
         "name": "Sacramento",
         "hashtag": "#Sacramento",
         "state": "CA",
@@ -226,10 +226,10 @@
           "twitter": "JerryBrownGov",
           "image": "./images/brown.jpg"
         }
-
- }   },
+      }
+    },
     "long_beach": {
-        "variables": {
+      "variables": {
         "name": "Long Beach",
         "hashtag": "#LongBeach",
         "state": "CA",
@@ -249,10 +249,10 @@
           "twitter": "JerryBrownGov",
           "image": "./images/brown.jpg"
         }
-
- }   },
+      }
+    },
     "oakland": {
-        "variables": {
+      "variables": {
         "name": "Oakland",
         "hashtag": "#Oakland",
         "state": "CA",
@@ -272,10 +272,10 @@
           "twitter": "jeanquan",
           "image": "./images/quan.jpg"
         }
-
- }   },
+      }
+    },
     "denver": {
-        "variables": {
+      "variables": {
         "name": "Denver",
         "hashtag": "#Denver",
         "state": "CO",
@@ -295,10 +295,10 @@
           "twitter": "hickforco",
           "image": "./images/hickenlooper.jpg"
         }
-
- }   },
+      }
+    },
     "colorado_springs": {
-        "variables": {
+      "variables": {
         "name": "Colorado Springs",
         "hashtag": "#ColoradoSprings",
         "state": "CO",
@@ -318,10 +318,10 @@
           "twitter": "hickforco",
           "image": "./images/hickenlooper.jpg"
         }
-
- }   },
+      }
+    },
     "washington": {
-        "variables": {
+      "variables": {
         "name": "Washington",
         "hashtag": "#Washington",
         "state": "DC",
@@ -341,10 +341,10 @@
           "twitter": "mayorvincegray",
           "image": "./images/gray.jpg"
         }
-
- }   },
+      }
+    },
     "jacksonville": {
-        "variables": {
+      "variables": {
         "name": "Jacksonville",
         "hashtag": "#Jacksonville",
         "state": "FL",
@@ -364,10 +364,10 @@
           "twitter": "MayorAlvinBrown",
           "image": "./images/a_brown.jpg"
         }
-
- }   },
+      }
+    },
     "miami": {
-        "variables": {
+      "variables": {
         "name": "Miami",
         "hashtag": "#Miami",
         "state": "FL",
@@ -387,10 +387,10 @@
           "twitter": "Tomas_Regalado",
           "image": "./images/regalado.jpg"
         }
-
- }   },
+      }
+    },
     "orlando": {
-        "variables": {
+      "variables": {
         "name": "Orlando",
         "hashtag": "#Orlando",
         "state": "FL",
@@ -410,10 +410,10 @@
           "twitter": "citybeautiful",
           "image": "./images/dyer.jpg"
         }
-
- }   },
+      }
+    },
     "atlanta": {
-        "variables": {
+      "variables": {
         "name": "Atlanta",
         "hashtag": "#Atlanta",
         "state": "GA",
@@ -433,10 +433,10 @@
           "twitter": "KasimReed",
           "image": "./images/reed.jpg"
         }
-
- }   },
+      }
+    },
     "chicago": {
-        "variables": {
+      "variables": {
         "name": "Chicago",
         "hashtag": "#Chicago",
         "state": "IL",
@@ -456,10 +456,10 @@
           "twitter": "RahmEmanuel",
           "image": "./images/emanuel.jpg"
         }
-
- }   },
+      }
+    },
     "indianapolis": {
-        "variables": {
+      "variables": {
         "name": "Indianapolis",
         "hashtag": "#Indianapolis",
         "state": "IN",
@@ -479,10 +479,10 @@
           "twitter": "MayorBallard",
           "image": "./images/ballard.jpg"
         }
-
- }   },
+      }
+    },
     "louisville": {
-        "variables": {
+      "variables": {
         "name": "Louisville",
         "hashtag": "#Louisville",
         "state": "KY",
@@ -502,10 +502,10 @@
           "twitter": "louisvillemayor",
           "image": "./images/fischer.jpg"
         }
-
- }   },
+      }
+    },
     "new_orleans": {
-      "variables": {
+    "variables": {
         "name": "New Orleans",
         "hashtag": "#NOLA",
         "state": "LA",
@@ -528,7 +528,7 @@
       }
     },
     "boston": {
-      "variables": {
+    "variables": {
         "name": "Boston",
         "hashtag": "#Boston",
         "state": "MA",
@@ -551,7 +551,7 @@
       }
     },
     "baltimore": {
-      "variables": {
+    "variables": {
         "name": "Baltimore",
         "hashtag": "#Baltimore",
         "state": "MD",
@@ -574,7 +574,7 @@
       }
     },
     "detroit": {
-      "variables": {
+    "variables": {
         "name": "Detroit",
         "hashtag": "#Detroit",
         "state": "MI",
@@ -597,7 +597,7 @@
       }
     },
     "minneapolis": {
-      "variables": {
+    "variables": {
         "name": "Minneapolis",
         "hashtag": "#Minneapolis",
         "state": "MN",
@@ -620,7 +620,7 @@
       }
     },
     "kansas_city": {
-      "variables": {
+    "variables": {
         "name": "Kansas City",
         "hashtag": "#KansasCity",
         "state": "MO",
@@ -643,7 +643,7 @@
       }
     },
     "charlotte": {
-      "variables": {
+    "variables": {
         "name": "Charlotte",
         "hashtag": "#Charlotte",
         "state": "NC",
@@ -666,7 +666,7 @@
       }
     },
     "raleigh": {
-      "variables": {
+    "variables": {
         "name": "Raleigh",
         "hashtag": "#Raleigh",
         "state": "NC",
@@ -689,7 +689,7 @@
       }
     },
     "omaha": {
-      "variables": {
+    "variables": {
         "name": "Omaha",
         "hashtag": "#Omaha",
         "state": "NE",
@@ -712,7 +712,7 @@
       }
     },
     "albuquerque": {
-      "variables": {
+    "variables": {
         "name": "Albuquerque",
         "hashtag": "#ABQ",
         "state": "NM",
@@ -735,7 +735,7 @@
       }
     },
     "las_vegas": {
-      "variables": {
+    "variables": {
         "name": "Las Vegas",
         "hashtag": "#LasVegas",
         "state": "NV",
@@ -758,7 +758,7 @@
       }
     },
     "new_york": {
-      "variables": {
+    "variables": {
         "name": "New York",
         "hashtag": "#NYC",
         "state": "NY",
@@ -781,7 +781,7 @@
       }
     },
     "columbus": {
-      "variables": {
+    "variables": {
         "name": "Columbus",
         "hashtag": "#Columbus",
         "state": "OH",
@@ -804,7 +804,7 @@
       }
     },
     "cleveland": {
-      "variables": {
+    "variables": {
         "name": "Cleveland",
         "hashtag": "#Cleveland",
         "state": "OH",
@@ -827,7 +827,7 @@
       }
     },
     "oklahoma_city": {
-      "variables": {
+    "variables": {
         "name": "Oklahoma City",
         "hashtag": "#OklahomaCity",
         "state": "OK",
@@ -850,7 +850,7 @@
       }
     },
     "tulsa": {
-      "variables": {
+    "variables": {
         "name": "Tulsa",
         "hashtag": "#Tulsa",
         "state": "OK",
@@ -873,7 +873,7 @@
       }
     },
     "portland": {
-      "variables": {
+    "variables": {
         "name": "Portland",
         "hashtag": "#Portland",
         "state": "OR",
@@ -896,7 +896,7 @@
       }
     },
     "philadelphia": {
-      "variables": {
+    "variables": {
         "name": "Philadelphia",
         "hashtag": "#Philadelphia",
         "state": "PA",
@@ -919,7 +919,7 @@
       }
     },
     "memphis": {
-      "variables": {
+    "variables": {
         "name": "Memphis",
         "hashtag": "#Memphis",
         "state": "TN",
@@ -942,7 +942,7 @@
       }
     },
     "nashville": {
-      "variables": {
+    "variables": {
         "name": "Nashville",
         "hashtag": "#Nashville",
         "state": "TN",
@@ -965,7 +965,7 @@
       }
     },
     "houston": {
-      "variables": {
+    "variables": {
         "name": "Houston",
         "hashtag": "#Houston",
         "state": "TX",
@@ -988,7 +988,7 @@
       }
     },
     "san_antonio": {
-      "variables": {
+    "variables": {
         "name": "San Antonio",
         "hashtag": "#SanAntonio",
         "state": "TX",
@@ -1011,7 +1011,7 @@
       }
     },
     "dallas": {
-      "variables": {
+    "variables": {
         "name": "Dallas",
         "hashtag": "#Dallas",
         "state": "TX",
@@ -1034,7 +1034,7 @@
       }
     },
     "austin": {
-      "variables": {
+    "variables": {
         "name": "Austin",
         "hashtag": "#Austin",
         "state": "TX",
@@ -1057,7 +1057,7 @@
       }
     },
     "fort_worth": {
-      "variables": {
+    "variables": {
         "name": "Fort Worth",
         "hashtag": "#FortWorth",
         "state": "TX",
@@ -1080,7 +1080,7 @@
       }
     },
     "el_paso": {
-      "variables": {
+    "variables": {
         "name": "El Paso",
         "hashtag": "#ElPaso",
         "state": "TX",
@@ -1103,7 +1103,7 @@
       }
     },
     "virginia_beach": {
-      "variables": {
+    "variables": {
         "name": "Virginia Beach",
         "hashtag": "#VirginiaBeach",
         "state": "VA",
@@ -1126,7 +1126,7 @@
       }
     },
     "seattle": {
-      "variables": {
+    "variables": {
         "name": "Seattle",
         "hashtag": "#Seattle",
         "state": "WA",
@@ -1149,7 +1149,7 @@
       }
     },
     "milwaukee": {
-      "variables": {
+    "variables": {
         "name": "Milwaukee",
         "hashtag": "#Milwaukee",
         "state": "WI",
