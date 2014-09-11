@@ -5,7 +5,7 @@
   <script type="text/javascript" src="//use.typekit.net/awu4mpx.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
-<body {{#if variants}}class="{{tone}}"{{else}}class="thanks"{{/if}}>
+<body {{#if tone}}class="{{tone}}"{{else}}class="thanks"{{/if}}>
   <div class="wrapper">
     <div class="legislator-image">
       <div class="image-wrapper">
@@ -24,7 +24,7 @@
     <div class="content-wrapper">
       <div class="content">
         <div class="dear">
-          {{#if variants}}
+          {{#if target}}
             Dear {{target.title}} {{target.last}}...
           {{else}}
             Dear Legislator...
