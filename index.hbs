@@ -38,14 +38,14 @@
           {{/if}}
         </div>
         <div class="city-state">
-          {{{name}}}
-          {{#if state}}
-            {{#if name}}
+          {{{variant_city}}}
+          {{#if variant_state}}
+            {{#if variant_city}}
               ,
             {{/if}}
           {{/if}}
-          {{#if name}}
-            {{state}}
+          {{#if variant_city}}
+            {{variant_state}}
           {{else}}
             {{state_full}}
           {{/if}}
@@ -62,13 +62,13 @@
             <div class="signature">
               <div class="signature-name">{{{first}}} {{{last}}}</div>
               <div class="signature-city-state">
-              {{{name}}}
+              {{{city}}}
               {{#if state}}
-                {{#if name}}
+                {{#if city}}
                   ,
                 {{/if}}
               {{/if}}
-              {{#if name}}
+              {{#if city}}
                 {{state}}
               {{else}}
                 {{state_full}}
