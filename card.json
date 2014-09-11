@@ -1,6 +1,7 @@
 {
   "title": "R Street",
   "description": "R Street Camaign",
+  "typekit": true,
   "sizes": {
     "twitter": {
       "width": 800,
