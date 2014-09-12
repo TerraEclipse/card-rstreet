@@ -26,8 +26,8 @@
       "variables": {
         "variant_city": "Phoenix",
         "variant_state": "AZ",
-        "grade": "B",
-        "tone": "thanks",
+        "grade": "C+",
+        "tone": "help",
         "target": {
           "title": "Mayor",
           "name": "Greg Stanton",
@@ -86,7 +86,7 @@
       "variables": {
         "variant_city": "San Diego",
         "variant_state": "CA",
-        "grade": "B+",
+        "grade": "B",
         "tone": "thanks",
         "target": {
           "title": "Governor",
@@ -131,7 +131,7 @@
       "variables": {
         "variant_city": "Fresno",
         "variant_state": "CA",
-        "grade": "A-",
+        "grade": "A",
         "tone": "thanks",
         "target": {
           "title": "Mayor",
@@ -191,7 +191,7 @@
       "variables": {
         "variant_city": "Denver",
         "variant_state": "CO",
-        "grade": "B+",
+        "grade": "B",
         "tone": "thanks",
         "target": {
           "title": "Governor",
@@ -206,7 +206,7 @@
       "variables": {
         "variant_city": "Colorado Springs",
         "variant_state": "CO",
-        "grade": "B+",
+        "grade": "B",
         "tone": "thanks",
         "target": {
           "title": "Governor",
@@ -236,8 +236,8 @@
       "variables": {
         "variant_city": "Jacksonville",
         "variant_state": "FL",
-        "grade": "B+",
-        "tone": "thanks",
+        "grade": "B-",
+        "tone": "help",
         "target": {
           "title": "Mayor",
           "name": "Alvin Brown",
@@ -251,7 +251,7 @@
       "variables": {
         "variant_city": "Miami",
         "variant_state": "FL",
-        "grade": "D+",
+        "grade": "D",
         "tone": "hostile",
         "target": {
           "title": "Mayor",
@@ -266,7 +266,7 @@
       "variables": {
         "variant_city": "Orlando",
         "variant_state": "FL",
-        "grade": "C+",
+        "grade": "C-",
         "tone": "help",
         "target": {
           "title": "Mayor",
@@ -281,7 +281,7 @@
       "variables": {
         "variant_city": "Atlanta",
         "variant_state": "GA",
-        "grade": "C+",
+        "grade": "C",
         "tone": "help",
         "target": {
           "title": "Mayor",
@@ -296,7 +296,7 @@
       "variables": {
         "variant_city": "Chicago",
         "variant_state": "IL",
-        "grade": "B-",
+        "grade": "C+",
         "tone": "help",
         "target": {
           "title": "Mayor",
@@ -341,7 +341,7 @@
       "variables": {
         "variant_city": "New Orleans",
         "variant_state": "LA",
-        "grade": "D-",
+        "grade": "F",
         "tone": "hostile",
         "target": {
           "title": "Mayor",
@@ -356,7 +356,7 @@
       "variables": {
         "variant_city": "Boston",
         "variant_state": "MA",
-        "grade": "B-",
+        "grade": "C",
         "tone": "help",
         "target": {
           "title": "Mayor",
@@ -371,7 +371,7 @@
       "variables": {
         "variant_city": "Baltimore",
         "variant_state": "MD",
-        "grade": "B",
+        "grade": "C+",
         "tone": "thanks",
         "target": {
           "title": "Mayor",
@@ -386,7 +386,7 @@
       "variables": {
         "variant_city": "Detroit",
         "variant_state": "MI",
-        "grade": "B+",
+        "grade": "C+",
         "tone": "thanks",
         "target": {
           "title": "Mayor",
@@ -416,7 +416,7 @@
       "variables": {
         "variant_city": "Kansas City",
         "variant_state": "MO",
-        "grade": "D",
+        "grade": "D-",
         "tone": "hostile",
         "target": {
           "title": "Mayor",
@@ -431,7 +431,7 @@
       "variables": {
         "variant_city": "Charlotte",
         "variant_state": "NC",
-        "grade": "B-",
+        "grade": "C",
         "tone": "help",
         "target": {
           "title": "Mayor",
@@ -461,8 +461,8 @@
       "variables": {
         "variant_city": "Omaha",
         "variant_state": "NE",
-        "grade": "C+",
-        "tone": "help",
+        "grade": "D+",
+        "tone": "hostile",
         "target": {
           "title": "Mayor",
           "name": "Jean Stothert",
@@ -476,7 +476,7 @@
       "variables": {
         "variant_city": "Albuquerque",
         "variant_state": "NM",
-        "grade": "C-",
+        "grade": "C",
         "tone": "help",
         "target": {
           "title": "Mayor",
@@ -491,7 +491,7 @@
       "variables": {
         "variant_city": "Las Vegas",
         "variant_state": "NV",
-        "grade": "D-",
+        "grade": "F",
         "tone": "hostile",
         "target": {
           "title": "Mayor",
@@ -506,8 +506,8 @@
       "variables": {
         "variant_city": "New York",
         "variant_state": "NY",
-        "grade": "C+",
-        "tone": "help",
+        "grade": "D+",
+        "tone": "hostile",
         "target": {
           "title": "Mayor",
           "name": "Bill De Blasio",
@@ -521,7 +521,7 @@
       "variables": {
         "variant_city": "Columbus",
         "variant_state": "OH",
-        "grade": "B-",
+        "grade": "C",
         "tone": "help",
         "target": {
           "title": "Mayor",
@@ -536,8 +536,8 @@
       "variables": {
         "variant_city": "Cleveland",
         "variant_state": "OH",
-        "grade": "B",
-        "tone": "thanks",
+        "grade": "C+",
+        "tone": "help",
         "target": {
           "title": "Mayor",
           "name": "Frank G. Jackson",
@@ -551,8 +551,8 @@
       "variables": {
         "variant_city": "Oklahoma City",
         "variant_state": "OK",
-        "grade": "B",
-        "tone": "thanks",
+        "grade": "C+",
+        "tone": "help",
         "target": {
           "title": "Mayor",
           "name": "Mick Cornett",
@@ -566,8 +566,8 @@
       "variables": {
         "variant_city": "Tulsa",
         "variant_state": "OK",
-        "grade": "C",
-        "tone": "help",
+        "grade": "D+",
+        "tone": "hostile",
         "target": {
           "title": "Mayor",
           "name": "Dewey F. Bartlett, Jr.",
@@ -581,7 +581,7 @@
       "variables": {
         "variant_city": "Portland",
         "variant_state": "OR",
-        "grade": "D-",
+        "grade": "F",
         "tone": "hostile",
         "target": {
           "title": "Mayor",
@@ -596,8 +596,8 @@
       "variables": {
         "variant_city": "Philadelphia",
         "variant_state": "PA",
-        "grade": "C",
-        "tone": "help",
+        "grade": "D-",
+        "tone": "hostile",
         "target": {
           "title": "Mayor",
           "name": "Michael Nutter",
@@ -611,7 +611,7 @@
       "variables": {
         "variant_city": "Memphis",
         "variant_state": "TN",
-        "grade": "C+",
+        "grade": "C",
         "tone": "help",
         "target": {
           "title": "Mayor",
@@ -626,7 +626,7 @@
       "variables": {
         "variant_city": "Nashville",
         "variant_state": "TN",
-        "grade": "B-",
+        "grade": "C",
         "tone": "help",
         "target": {
           "title": "Mayor",
@@ -641,7 +641,7 @@
       "variables": {
         "variant_city": "Houston",
         "variant_state": "TX",
-        "grade": "C-",
+        "grade": "C",
         "tone": "help",
         "target": {
           "title": "Mayor",
@@ -656,8 +656,8 @@
       "variables": {
         "variant_city": "San Antonio",
         "variant_state": "TX",
-        "grade": "C-",
-        "tone": "help",
+        "grade": "D-",
+        "tone": "hostile",
         "target": {
           "title": "Mayor",
           "name": "Ivy R. Taylor",
@@ -671,7 +671,7 @@
       "variables": {
         "variant_city": "Dallas",
         "variant_state": "TX",
-        "grade": "B-",
+        "grade": "C",
         "tone": "help",
         "target": {
           "title": "Mayor",
@@ -686,7 +686,7 @@
       "variables": {
         "variant_city": "Austin",
         "variant_state": "TX",
-        "grade": "D",
+        "grade": "D-",
         "tone": "hostile",
         "target": {
           "title": "Mayor",
@@ -701,8 +701,8 @@
       "variables": {
         "variant_city": "Fort Worth",
         "variant_state": "TX",
-        "grade": "B",
-        "tone": "thanks",
+        "grade": "B-",
+        "tone": "help",
         "target": {
           "title": "Mayor",
           "name": "Betsy Price",
@@ -716,7 +716,7 @@
       "variables": {
         "variant_city": "El Paso",
         "variant_state": "TX",
-        "grade": "B-",
+        "grade": "C",
         "tone": "help",
         "target": {
           "title": "Mayor",
@@ -731,8 +731,8 @@
       "variables": {
         "variant_city": "Virginia Beach",
         "variant_state": "VA",
-        "grade": "B-",
-        "tone": "help",
+        "grade": "B+",
+        "tone": "thanks",
         "target": {
           "title": "Governor",
           "name": "Terry McAuliffe",
@@ -761,8 +761,8 @@
       "variables": {
         "variant_city": "Milwaukee",
         "variant_state": "WI",
-        "grade": "B-",
-        "tone": "help",
+        "grade": "B",
+        "tone": "thanks",
         "target": {
           "title": "Mayor",
           "name": "Tom Barrett",
