@@ -86,14 +86,14 @@
       "variables": {
         "variant_city": "San Diego",
         "variant_state": "CA",
-        "grade": "B",
-        "tone": "thanks",
+        "grade": "B-",
+        "tone": "help",
         "target": {
-          "title": "Governor",
-          "name": "Jerry Brown",
-          "last": "Brown",
-          "twitter": "JerryBrownGov",
-          "image": "/images/brown.jpg"
+          "title": "Mayor",
+          "name": "Kevin Faulconer",
+          "last": "Faulconer",
+          "twitter": "kevin_faulconer",
+          "image": "/images/faulconer.jpg"
         }
       }
     },
@@ -101,7 +101,7 @@
       "variables": {
         "variant_city": "San Jose",
         "variant_state": "CA",
-        "grade": "B+",
+        "grade": "B",
         "tone": "thanks",
         "target": {
           "title": "Governor",
@@ -116,14 +116,14 @@
       "variables": {
         "variant_city": "San Francisco",
         "variant_state": "CA",
-        "grade": "B",
-        "tone": "thanks",
+        "grade": "B-",
+        "tone": "help",
         "target": {
-          "title": "Governor",
-          "name": "Jerry Brown",
-          "last": "Brown",
-          "twitter": "JerryBrownGov",
-          "image": "/images/brown.jpg"
+          "title": "Mayor",
+          "name": "Edwin M. Lee",
+          "last": "Lee",
+          "twitter": "mayoredlee",
+          "image": "/images/lee.jpg"
         }
       }
     },
@@ -161,7 +161,7 @@
       "variables": {
         "variant_city": "Long Beach",
         "variant_state": "CA",
-        "grade": "B+",
+        "grade": "B",
         "tone": "thanks",
         "target": {
           "title": "Governor",
