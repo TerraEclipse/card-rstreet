@@ -686,8 +686,8 @@
       "variables": {
         "variant_city": "Austin",
         "variant_state": "TX",
-        "grade": "D-",
-        "tone": "hostile",
+        "grade": "C+",
+        "tone": "help",
         "target": {
           "title": "Mayor",
           "name": "Lee Leffingwell",
