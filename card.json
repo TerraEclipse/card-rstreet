@@ -179,11 +179,11 @@
         "grade": "B",
         "tone": "thanks",
         "target": {
-          "title": "Mayor",
-          "name": "Jean Quan",
-          "last": "Quan",
-          "twitter": "jeanquan",
-          "image": "/images/quan.jpg"
+          "title": "Governor",
+          "name": "Jerry Brown",
+          "last": "Brown",
+          "twitter": "JerryBrownGov",
+          "image": "/images/brown.jpg"
         }
       }
     },
